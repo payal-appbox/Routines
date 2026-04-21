@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T21:45:00Z",
+  "last_updated": "2026-04-21T21:30:00Z",
   "pending_delete": [
     {
       "thread_id": "19da28e161281e85",
@@ -136,6 +136,46 @@
       "subject": "Get your teams using Rovo today!",
       "category": "Onboarding/Newsletter",
       "reason": "Atlassian Rovo onboarding newsletter sent to test account"
+    },
+    {
+      "thread_id": "19db1756eef77a90",
+      "date": "2026-04-21",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Time for your Q1 website performance check.",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Bluehost website performance upsell"
+    },
+    {
+      "thread_id": "19db1224d3e600f7",
+      "date": "2026-04-21",
+      "sender": "rodolfo@updates.workflowy.com",
+      "subject": "Update 2026.04 - Google Calendar Sync and more",
+      "category": "Newsletter/Event",
+      "reason": "Product update newsletter from Workflowy — no action needed"
+    },
+    {
+      "thread_id": "19db1017232b1e2b",
+      "date": "2026-04-21",
+      "sender": "it@appbox.ai",
+      "subject": "Cut Dev-QA back-and-forth with Jira + Loom",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Loom + Jira integration upsell"
+    },
+    {
+      "thread_id": "19db0e1d1669709f",
+      "date": "2026-04-21",
+      "sender": "it@appbox.ai",
+      "subject": "Your experience with Twilio",
+      "category": "Survey/No-action",
+      "reason": "Twilio feedback survey request — no action required"
+    },
+    {
+      "thread_id": "19db0c759deea058",
+      "date": "2026-04-21",
+      "sender": "hello@go.appfire.com",
+      "subject": "Formulas are now live in JXL",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Appfire JXL feature announcement"
     }
   ]
 }
