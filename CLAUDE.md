@@ -12,14 +12,16 @@ Claude Code agents that execute tasks using MCP connectors — no local CLI tool
 
 ## Architecture
 
-All routines operate exclusively through MCP connectors:
+Routines operate through MCP connectors and the repository filesystem:
 
-- **Gmail** — read emails, create drafts, apply labels
+- **Gmail** — read emails, create drafts (labeling requires write scopes not yet available)
 - **Atlassian** — read Jira tickets and Confluence pages
 - **Slack** — send messages, read channels
+- **Repository** — persist state across runs (e.g., `delete-queue.json`)
 
-No local tools (gws, jira-cli, curl, etc.) are available in the routine execution
-environment. Every external interaction must go through an MCP connector.
+The routine execution environment supports setup scripts, package installation (cached),
+and environment variables. Network access requires allowlisting. Tools like `gws` can be
+installed via the setup script if needed in future.
 
 ## Safety Rules — MUST FOLLOW
 
@@ -28,7 +30,7 @@ These rules apply to ALL routines in this repo. Violating them could cause real 
 ### Email (Gmail)
 
 - **NEVER send emails.** Only create drafts. The human reviews and sends.
-- **NEVER delete emails.** Only apply labels (e.g., `claude-delete` for junk).
+- **NEVER delete emails.** Add junk to `delete-queue.json` for owner to batch-delete locally.
 - **NEVER modify email content** in existing threads beyond drafting replies.
 
 ### Jira (Atlassian)
@@ -52,7 +54,7 @@ These rules apply to ALL routines in this repo. Violating them could cause real 
 
 | Routine | Skill | Schedule | Description |
 |---------|-------|----------|-------------|
-| Inbox Processor | `/inbox-processor` | 10 AM & 8 PM IST daily | Classifies inbox, drafts Jira responses, labels junk |
+| Inbox Processor | `/inbox-processor` | 10 AM & 8 PM IST daily | Classifies inbox, drafts Jira responses, queues junk for deletion |
 
 ## Conventions
 

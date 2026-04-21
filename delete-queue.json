@@ -1,0 +1,141 @@
+{
+  "last_updated": "2026-04-18T21:45:00Z",
+  "pending_delete": [
+    {
+      "thread_id": "19da28e161281e85",
+      "date": "2026-04-18",
+      "sender": "info@admin.manus.im",
+      "subject": "Your Manus Journey Begins Now",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — onboarding email from third-party AI tool"
+    },
+    {
+      "thread_id": "19d9cfa4254de34e",
+      "date": "2026-04-17",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Meet AI All-Access Pack: Your New AI business partner!",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — hosting provider upsell"
+    },
+    {
+      "thread_id": "19d9ca049c542a9d",
+      "date": "2026-04-17",
+      "sender": "workspace-noreply@google.com",
+      "subject": "Participate in a Workspace user survey",
+      "category": "Survey/No-action",
+      "reason": "Survey request — no action required"
+    },
+    {
+      "thread_id": "19d9bc7d045ecf7e",
+      "date": "2026-04-17",
+      "sender": "servicedeskagent@appbox.ai",
+      "subject": "Team '26 Founder Keynote: hear from Atlassian CEO and industry leaders",
+      "category": "Newsletter/Event",
+      "reason": "Duplicate Atlassian event newsletter sent to test account"
+    },
+    {
+      "thread_id": "19d9bb2fb4080db5",
+      "date": "2026-04-17",
+      "sender": "khaldrogo@appbox.ai",
+      "subject": "Team '26 Founder Keynote: hear from Atlassian CEO and industry leaders",
+      "category": "Newsletter/Event",
+      "reason": "Duplicate Atlassian event newsletter sent to test account"
+    },
+    {
+      "thread_id": "19d9bb2edf34f56e",
+      "date": "2026-04-17",
+      "sender": "jamielannister@appbox.ai",
+      "subject": "Team '26 Founder Keynote: hear from Atlassian CEO and industry leaders",
+      "category": "Newsletter/Event",
+      "reason": "Duplicate Atlassian event newsletter sent to test account"
+    },
+    {
+      "thread_id": "19d9bb2eccd10fb8",
+      "date": "2026-04-17",
+      "sender": "tyrionlannister@appbox.ai",
+      "subject": "Team '26 Founder Keynote: hear from Atlassian CEO and industry leaders",
+      "category": "Newsletter/Event",
+      "reason": "Duplicate Atlassian event newsletter sent to test account"
+    },
+    {
+      "thread_id": "19d9ba7e6bc657fb",
+      "date": "2026-04-17",
+      "sender": "AppboxDemo@appbox.ai",
+      "subject": "Team '26 Founder Keynote: hear from Atlassian CEO and industry leaders",
+      "category": "Newsletter/Event",
+      "reason": "Duplicate Atlassian event newsletter sent to test account"
+    },
+    {
+      "thread_id": "19d9ba63c03a7daa",
+      "date": "2026-04-17",
+      "sender": "info@e.atlassian.com",
+      "subject": "Team '26 Founder Keynote: hear from Atlassian CEO and industry leaders",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian event newsletter — multiple copies to alias accounts"
+    },
+    {
+      "thread_id": "19d9ba4a680c013e",
+      "date": "2026-04-17",
+      "sender": "jira-issue-view-user1@appbox.ai",
+      "subject": "Team '26 Founder Keynote: hear from Atlassian CEO and industry leaders",
+      "category": "Newsletter/Event",
+      "reason": "Duplicate Atlassian event newsletter sent to test account"
+    },
+    {
+      "thread_id": "19d9ba1a7c045700",
+      "date": "2026-04-17",
+      "sender": "aryastark@appbox.ai",
+      "subject": "Team '26 Founder Keynote: hear from Atlassian CEO and industry leaders",
+      "category": "Newsletter/Event",
+      "reason": "Duplicate Atlassian event newsletter sent to test account"
+    },
+    {
+      "thread_id": "19d97d555bc8a8e9",
+      "date": "2026-04-16",
+      "sender": "notifications@mail.postman.com",
+      "subject": "Try postman for free.",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — free trial offer from Postman"
+    },
+    {
+      "thread_id": "19d8c8a4a5d3cab2",
+      "date": "2026-04-14",
+      "sender": "k.dorosz@deviniti.com",
+      "subject": "Is Jira making you money?",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Atlassian partner vendor outreach"
+    },
+    {
+      "thread_id": "1984b6d1340cb75d",
+      "date": "2025-07-27",
+      "sender": "noreply@email.workflowy.com",
+      "subject": "Daily update for 7/26/2025",
+      "category": "Automated Notification",
+      "reason": "Automated daily digest notification — no action needed"
+    },
+    {
+      "thread_id": "1983345c2dff6bd5",
+      "date": "2025-07-22",
+      "sender": "jamielannister@appbox.ai",
+      "subject": "Get your teams using Rovo today!",
+      "category": "Onboarding/Newsletter",
+      "reason": "Atlassian Rovo onboarding newsletter sent to test account"
+    },
+    {
+      "thread_id": "198333d866ccdb3f",
+      "date": "2025-07-22",
+      "sender": "khaldrogo@appbox.ai",
+      "subject": "Get your teams using Rovo today!",
+      "category": "Onboarding/Newsletter",
+      "reason": "Atlassian Rovo onboarding newsletter sent to test account"
+    },
+    {
+      "thread_id": "198333bc0d99869d",
+      "date": "2025-07-22",
+      "sender": "jonsnow@appbox.ai",
+      "subject": "Get your teams using Rovo today!",
+      "category": "Onboarding/Newsletter",
+      "reason": "Atlassian Rovo onboarding newsletter sent to test account"
+    }
+  ]
+}
