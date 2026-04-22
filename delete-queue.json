@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T21:45:00Z",
+  "last_updated": "2026-04-22T22:30:00Z",
   "pending_delete": [
     {
       "thread_id": "19da28e161281e85",
@@ -136,6 +136,142 @@
       "subject": "Get your teams using Rovo today!",
       "category": "Onboarding/Newsletter",
       "reason": "Atlassian Rovo onboarding newsletter sent to test account"
+    },
+    {
+      "thread_id": "19db698acee442b9",
+      "date": "2026-04-22",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Optimize your products, content, and visibility with Yoast SEO Premium.",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — hosting provider upsell for Yoast SEO Premium"
+    },
+    {
+      "thread_id": "19db5f565a3b41da",
+      "date": "2026-04-22",
+      "sender": "marketing@appbox.ai",
+      "subject": "Your inactive Mailchimp account is closing",
+      "category": "Automated Notification",
+      "reason": "Automated account-closure notice for unused Mailchimp account — no action needed"
+    },
+    {
+      "thread_id": "19db5c53015631de",
+      "date": "2026-04-22",
+      "sender": "info@admin.manus.im",
+      "subject": "Still spending hours formatting slides?",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — third-party AI tool upsell"
+    },
+    {
+      "thread_id": "19db58240c07aa53",
+      "date": "2026-04-22",
+      "sender": "it@appbox.ai",
+      "subject": "Formulas are now live in JXL",
+      "category": "Marketing/Promo",
+      "reason": "Vendor marketing for Appfire JXL — forwarded to alias account"
+    },
+    {
+      "thread_id": "19db579e0d5843f7",
+      "date": "2026-04-22",
+      "sender": "it@appbox.ai",
+      "subject": "Appbox Team, ICE: Impact, Confidence, Ease plus more pages your team is working on",
+      "category": "Newsletter/Event",
+      "reason": "Confluence weekly content recommendations digest — no action needed"
+    },
+    {
+      "thread_id": "19db5660b98ea668",
+      "date": "2026-04-22",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress sandbox auto-update notification — no action needed"
+    },
+    {
+      "thread_id": "19db55e5de1af55a",
+      "date": "2026-04-22",
+      "sender": "confluence@ecosystem.atlassian.net",
+      "subject": "Payal, Atlassian Marketplace New Partner Resources plus more pages your team is working on",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Confluence weekly content recommendations digest"
+    },
+    {
+      "thread_id": "19db51184cba54d7",
+      "date": "2026-04-22",
+      "sender": "hello@go.appfire.com",
+      "subject": "Formulas are now live in JXL",
+      "category": "Marketing/Promo",
+      "reason": "Appfire JXL marketing email"
+    },
+    {
+      "thread_id": "19db2e7b1e18fb49",
+      "date": "2026-04-22",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress auto-update notification — no action needed"
+    },
+    {
+      "thread_id": "19db295e5298fca8",
+      "date": "2026-04-22",
+      "sender": "research@userinterviews.com",
+      "subject": "We think you might be a good fit for upcoming Atlassian research",
+      "category": "Survey/No-action",
+      "reason": "Unsolicited research participation invite — no action needed"
+    },
+    {
+      "thread_id": "19db1756eef77a90",
+      "date": "2026-04-21",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Time for your Q1 website performance check.",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — hosting provider upsell"
+    },
+    {
+      "thread_id": "19db1224d3e600f7",
+      "date": "2026-04-21",
+      "sender": "rodolfo@updates.workflowy.com",
+      "subject": "Update 2026.04 - Google Calendar Sync and more",
+      "category": "Newsletter/Event",
+      "reason": "Workflowy product update newsletter — no action needed"
+    },
+    {
+      "thread_id": "19db1017232b1e2b",
+      "date": "2026-04-21",
+      "sender": "it@appbox.ai",
+      "subject": "Cut Dev-QA back-and-forth with Jira + Loom",
+      "category": "Marketing/Promo",
+      "reason": "Loom + Jira marketing email forwarded to alias"
+    },
+    {
+      "thread_id": "19db0e1d1669709f",
+      "date": "2026-04-21",
+      "sender": "it@appbox.ai",
+      "subject": "Your experience with Twilio",
+      "category": "Survey/No-action",
+      "reason": "Twilio customer feedback survey — no action needed"
+    },
+    {
+      "thread_id": "19db0c759deea058",
+      "date": "2026-04-21",
+      "sender": "hello@go.appfire.com",
+      "subject": "Formulas are now live in JXL",
+      "category": "Marketing/Promo",
+      "reason": "Appfire JXL marketing email to dev alias"
+    },
+    {
+      "thread_id": "19daeaa1a7409e6c",
+      "date": "2026-04-21",
+      "sender": "escalations@appbox.ai",
+      "subject": "App Availability Success Rate back to normal for Backlog Prioritization for Jira (Pro)",
+      "category": "Automated Notification",
+      "reason": "Atlassian SLI back-to-normal alert — paired with resolved alert; no action needed"
+    },
+    {
+      "thread_id": "19dae9a681179322",
+      "date": "2026-04-21",
+      "sender": "escalations@appbox.ai",
+      "subject": "App Availability Success Rate alert condition met for Backlog Prioritization for Jira (Pro)",
+      "category": "Automated Notification",
+      "reason": "Atlassian SLI alert — auto-resolved by follow-up back-to-normal notification"
     }
   ]
 }
