@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-04-18T21:45:00Z",
+  "last_updated": "2026-04-23T14:30:00Z",
   "pending_delete": [
+    {
+      "thread_id": "19dbabe2f81ccb45",
+      "date": "2026-04-23",
+      "sender": "NotebookLM-noreply@google.com",
+      "subject": "New in NotebookLM: Editable Slide Decks and Infographic styles",
+      "category": "Marketing/Promo",
+      "reason": "Product update newsletter from Google NotebookLM"
+    },
+    {
+      "thread_id": "19db698acee442b9",
+      "date": "2026-04-22",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Optimize your products, content, and visibility with Yoast SEO Premium.",
+      "category": "Marketing/Promo",
+      "reason": "Hosting provider upsell — Yoast SEO promo"
+    },
+    {
+      "thread_id": "19db5c53015631de",
+      "date": "2026-04-22",
+      "sender": "info@admin.manus.im",
+      "subject": "Still spending hours formatting slides?",
+      "category": "Marketing/Promo",
+      "reason": "Manus AI slide deck promo"
+    },
+    {
+      "thread_id": "19db51184cba54d7",
+      "date": "2026-04-22",
+      "sender": "hello@go.appfire.com",
+      "subject": "Formulas are now live in JXL",
+      "category": "Marketing/Promo",
+      "reason": "Appfire JXL product promo"
+    },
+    {
+      "thread_id": "19db1756eef77a90",
+      "date": "2026-04-21",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Time for your Q1 website performance check.",
+      "category": "Marketing/Promo",
+      "reason": "Bluehost service upsell"
+    },
+    {
+      "thread_id": "19db0c759deea058",
+      "date": "2026-04-21",
+      "sender": "hello@go.appfire.com",
+      "subject": "Formulas are now live in JXL",
+      "category": "Marketing/Promo",
+      "reason": "Duplicate Appfire JXL promo to dev213 alias"
+    },
     {
       "thread_id": "19da28e161281e85",
       "date": "2026-04-18",
