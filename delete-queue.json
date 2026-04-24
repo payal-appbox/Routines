@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T21:45:00Z",
+  "last_updated": "2026-04-24T15:00:00Z",
   "pending_delete": [
     {
       "thread_id": "19da28e161281e85",
@@ -136,6 +136,174 @@
       "subject": "Get your teams using Rovo today!",
       "category": "Onboarding/Newsletter",
       "reason": "Atlassian Rovo onboarding newsletter sent to test account"
+    },
+    {
+      "thread_id": "19dbfcca3fcccbe6",
+      "date": "2026-04-24",
+      "sender": "team@appbox.ai",
+      "subject": "[answer] Trello > Checklist Automation Help!",
+      "category": "Automated Notification",
+      "reason": "Atlassian Community search alert — automated digest, no action needed"
+    },
+    {
+      "thread_id": "19dbeea5ab00033f",
+      "date": "2026-04-24",
+      "sender": "team@appbox.ai",
+      "subject": "[answer] Confluence > Checklist display in Confluence Table",
+      "category": "Automated Notification",
+      "reason": "Atlassian Community search alert — automated digest, no action needed"
+    },
+    {
+      "thread_id": "19dbd5b758e5770d",
+      "date": "2026-04-24",
+      "sender": "team@appbox.ai",
+      "subject": "[answer] Jira > Track Smart checklist in reports",
+      "category": "Automated Notification",
+      "reason": "Atlassian Community search alert — automated digest, no action needed"
+    },
+    {
+      "thread_id": "19dbcffd32d1c746",
+      "date": "2026-04-24",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress automatic plugin update notification — no action needed"
+    },
+    {
+      "thread_id": "19dbce29604835b7",
+      "date": "2026-04-24",
+      "sender": "research@userinterviews.com",
+      "subject": "There's still time to join our Atlassian Research study!",
+      "category": "Survey/No-action",
+      "reason": "Research study invitation reminder — no action required"
+    },
+    {
+      "thread_id": "19dbcce8713405f0",
+      "date": "2026-04-24",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "Sandbox WordPress automatic plugin update notification — no action needed"
+    },
+    {
+      "thread_id": "19dbc3253905a3cf",
+      "date": "2026-04-23",
+      "sender": "jira@melon-inc.atlassian.net",
+      "subject": "Payal, here is your weekly update for 23 Apr",
+      "category": "Automated Notification",
+      "reason": "Weekly Jira digest from external melon-inc instance — no action needed"
+    },
+    {
+      "thread_id": "19dbbca15cbf8388",
+      "date": "2026-04-23",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Take the next step for your team with the AI All-Access Pack!",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — hosting provider AI upsell"
+    },
+    {
+      "thread_id": "19dbbc5c6601e94a",
+      "date": "2026-04-23",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Let's Celebrate National Email Day! Own Your Email, Own Your Brand!",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Bluehost email branding upsell"
+    },
+    {
+      "thread_id": "19dbbb8ed99f626d",
+      "date": "2026-04-23",
+      "sender": "team@appbox.ai",
+      "subject": "[question] Trello > Checklist Automation Help!",
+      "category": "Automated Notification",
+      "reason": "Atlassian Community search alert — automated digest, no action needed"
+    },
+    {
+      "thread_id": "19dbb8a3b98ac7d6",
+      "date": "2026-04-23",
+      "sender": "it@appbox.ai",
+      "subject": "Team '26 Keynote: redesigning the human+AI workforce",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Team '26 keynote event newsletter"
+    },
+    {
+      "thread_id": "19dbaea0a1250980",
+      "date": "2026-04-23",
+      "sender": "info@admin.manus.im",
+      "subject": "Hiring a designer for every social media variation?",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Manus AI design tool upsell"
+    },
+    {
+      "thread_id": "19dbabe2f81ccb45",
+      "date": "2026-04-23",
+      "sender": "NotebookLM-noreply@google.com",
+      "subject": "New in NotebookLM: Editable Slide Decks and Infographic styles",
+      "category": "Newsletter/Event",
+      "reason": "Google NotebookLM product update newsletter"
+    },
+    {
+      "thread_id": "19db9a3a8e955ffe",
+      "date": "2026-04-23",
+      "sender": "team@appbox.ai",
+      "subject": "[answer] Confluence > Checklist display in Confluence Table",
+      "category": "Automated Notification",
+      "reason": "Atlassian Community search alert — automated digest, no action needed"
+    },
+    {
+      "thread_id": "19db8cacae45dcf8",
+      "date": "2026-04-23",
+      "sender": "team@appbox.ai",
+      "subject": "[question] Jira > Failed to connect to \"CheckList\"",
+      "category": "Automated Notification",
+      "reason": "Atlassian Community search alert — automated digest, no action needed"
+    },
+    {
+      "thread_id": "19db5f6a1d6c9766",
+      "date": "2026-04-22",
+      "sender": "team@appbox.ai",
+      "subject": "[answer] Jira > Track Smart checklist in reports",
+      "category": "Automated Notification",
+      "reason": "Atlassian Community search alert — automated digest, no action needed"
+    },
+    {
+      "thread_id": "19db698acee442b9",
+      "date": "2026-04-22",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Optimize your products, content, and visibility with Yoast SEO Premium.",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Yoast SEO Premium upsell from Bluehost"
+    },
+    {
+      "thread_id": "19db5c53015631de",
+      "date": "2026-04-22",
+      "sender": "info@admin.manus.im",
+      "subject": "Still spending hours formatting slides?",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Manus AI presentation tool upsell"
+    },
+    {
+      "thread_id": "19db51184cba54d7",
+      "date": "2026-04-22",
+      "sender": "hello@go.appfire.com",
+      "subject": "Formulas are now live in JXL",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Appfire JXL feature announcement to test account"
+    },
+    {
+      "thread_id": "19db1756eef77a90",
+      "date": "2026-04-21",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Time for your Q1 website performance check.",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Bluehost web services upsell"
+    },
+    {
+      "thread_id": "19db0c759deea058",
+      "date": "2026-04-21",
+      "sender": "hello@go.appfire.com",
+      "subject": "Formulas are now live in JXL",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Appfire JXL feature announcement to test account"
     }
   ]
 }
