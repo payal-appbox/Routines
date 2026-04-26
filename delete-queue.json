@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T21:45:00Z",
+  "last_updated": "2026-04-26T14:30:00Z",
   "pending_delete": [
     {
       "thread_id": "19da28e161281e85",
@@ -136,6 +136,134 @@
       "subject": "Get your teams using Rovo today!",
       "category": "Onboarding/Newsletter",
       "reason": "Atlassian Rovo onboarding newsletter sent to test account"
+    },
+    {
+      "thread_id": "19dc63051b9de625",
+      "date": "2026-04-25",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "How Bluehost helped a growing brand achieve greater stability",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Bluehost customer spotlight"
+    },
+    {
+      "thread_id": "19dc5248d72533ed",
+      "date": "2026-04-25",
+      "sender": "team@appbox.ai",
+      "subject": "[answer] Confluence > Checklist display in Confluence Table",
+      "category": "Automated Notification",
+      "reason": "Atlassian Community answer alert — no action needed"
+    },
+    {
+      "thread_id": "19dc4e628c1ded9f",
+      "date": "2026-04-25",
+      "sender": "team@appbox.ai",
+      "subject": "[answer] Jira > Can Smart Checklist Items be converted into JIRA Issues Automatically?",
+      "category": "Automated Notification",
+      "reason": "Atlassian Community answer alert — no action needed"
+    },
+    {
+      "thread_id": "19dc2359a148bef9",
+      "date": "2026-04-25",
+      "sender": "it@appbox.ai",
+      "subject": "Introducing GPT-5.5",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — third-party AI model announcement"
+    },
+    {
+      "thread_id": "19dc226b9c3412f4",
+      "date": "2026-04-25",
+      "sender": "payal@appbox.ai",
+      "subject": "Second Brain OS — Daily Digest 2026-04-24",
+      "category": "Automated Notification",
+      "reason": "Automated daily digest — no agent activity logged"
+    },
+    {
+      "thread_id": "19dc1fa5b1060132",
+      "date": "2026-04-25",
+      "sender": "khaldrogo@appbox.ai",
+      "subject": "[Action Required] Your Confluence subscription will be deactivated due to inactivity soon",
+      "category": "Automated Notification",
+      "reason": "Automated subscription deactivation reminder to test account"
+    },
+    {
+      "thread_id": "19dc1fa5ab63bb15",
+      "date": "2026-04-25",
+      "sender": "jamielannister@appbox.ai",
+      "subject": "[Action Required] Your Confluence subscription will be deactivated due to inactivity soon",
+      "category": "Automated Notification",
+      "reason": "Automated subscription deactivation reminder to test account"
+    },
+    {
+      "thread_id": "19dc1fa5a62b412a",
+      "date": "2026-04-25",
+      "sender": "jonsnow@appbox.ai",
+      "subject": "[Action Required] Your Confluence subscription will be deactivated due to inactivity soon",
+      "category": "Automated Notification",
+      "reason": "Automated subscription deactivation reminder to test account"
+    },
+    {
+      "thread_id": "19dbbca15cbf8388",
+      "date": "2026-04-23",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Take the next step for your team with the AI All-Access Pack!",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — hosting provider AI upsell"
+    },
+    {
+      "thread_id": "19dbbc5c6601e94a",
+      "date": "2026-04-23",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Let's Celebrate National Email Day! Own Your Email, Own Your Brand!",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Google Workspace upsell from Bluehost"
+    },
+    {
+      "thread_id": "19dbaea0a1250980",
+      "date": "2026-04-23",
+      "sender": "info@admin.manus.im",
+      "subject": "Hiring a designer for every social media variation?",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — third-party AI design tool"
+    },
+    {
+      "thread_id": "19db698acee442b9",
+      "date": "2026-04-22",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Optimize your products, content, and visibility with Yoast SEO Premium.",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Yoast SEO upsell from Bluehost"
+    },
+    {
+      "thread_id": "19db5c53015631de",
+      "date": "2026-04-22",
+      "sender": "info@admin.manus.im",
+      "subject": "Still spending hours formatting slides?",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — third-party AI presentation tool"
+    },
+    {
+      "thread_id": "19db51184cba54d7",
+      "date": "2026-04-22",
+      "sender": "hello@go.appfire.com",
+      "subject": "Formulas are now live in JXL",
+      "category": "Marketing/Promo",
+      "reason": "Vendor product update — Appfire JXL marketing"
+    },
+    {
+      "thread_id": "19db1756eef77a90",
+      "date": "2026-04-21",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Time for your Q1 website performance check.",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Bluehost web services upsell"
+    },
+    {
+      "thread_id": "19db0c759deea058",
+      "date": "2026-04-21",
+      "sender": "hello@go.appfire.com",
+      "subject": "Formulas are now live in JXL",
+      "category": "Marketing/Promo",
+      "reason": "Vendor product update — duplicate Appfire JXL marketing to alias"
     }
   ]
 }
