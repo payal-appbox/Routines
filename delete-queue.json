@@ -1,6 +1,182 @@
 {
-  "last_updated": "2026-04-18T21:45:00Z",
+  "last_updated": "2026-04-26T14:30:00Z",
   "pending_delete": [
+    {
+      "thread_id": "19dc63051b9de625",
+      "date": "2026-04-25",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "How Bluehost helped a growing brand achieve greater stability",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — hosting provider customer spotlight"
+    },
+    {
+      "thread_id": "19dc2359a148bef9",
+      "date": "2026-04-25",
+      "sender": "it@appbox.ai",
+      "subject": "Introducing GPT-5.5",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — OpenAI product announcement forwarded to IT alias"
+    },
+    {
+      "thread_id": "19dc1fa5b1060132",
+      "date": "2026-04-25",
+      "sender": "khaldrogo@appbox.ai",
+      "subject": "[Action Required] Your Confluence subscription will be deactivated due to inactivity soon",
+      "category": "Automated Notification",
+      "reason": "Automated subscription inactivity reminder for test alias account"
+    },
+    {
+      "thread_id": "19dc1fa5ab63bb15",
+      "date": "2026-04-25",
+      "sender": "jamielannister@appbox.ai",
+      "subject": "[Action Required] Your Confluence subscription will be deactivated due to inactivity soon",
+      "category": "Automated Notification",
+      "reason": "Automated subscription inactivity reminder for test alias account"
+    },
+    {
+      "thread_id": "19dc1fa5a62b412a",
+      "date": "2026-04-25",
+      "sender": "jonsnow@appbox.ai",
+      "subject": "[Action Required] Your Confluence subscription will be deactivated due to inactivity soon",
+      "category": "Automated Notification",
+      "reason": "Automated subscription inactivity reminder for test alias account"
+    },
+    {
+      "thread_id": "19dbbca15cbf8388",
+      "date": "2026-04-23",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Take the next step for your team with the AI All-Access Pack!",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — hosting provider AI upsell"
+    },
+    {
+      "thread_id": "19dbbc5c6601e94a",
+      "date": "2026-04-23",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Let's Celebrate National Email Day! Own Your Email, Own Your Brand!",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — hosting provider Google Workspace upsell"
+    },
+    {
+      "thread_id": "19dbaea0a1250980",
+      "date": "2026-04-23",
+      "sender": "info@admin.manus.im",
+      "subject": "Hiring a designer for every social media variation?",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — third-party AI design tool outreach"
+    },
+    {
+      "thread_id": "19db698acee442b9",
+      "date": "2026-04-22",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Optimize your products, content, and visibility with Yoast SEO Premium.",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — hosting provider SEO upsell"
+    },
+    {
+      "thread_id": "19db5c53015631de",
+      "date": "2026-04-22",
+      "sender": "info@admin.manus.im",
+      "subject": "Still spending hours formatting slides?",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — third-party AI presentation tool outreach"
+    },
+    {
+      "thread_id": "19db51184cba54d7",
+      "date": "2026-04-22",
+      "sender": "hello@go.appfire.com",
+      "subject": "Formulas are now live in JXL",
+      "category": "Newsletter/Event",
+      "reason": "Vendor product newsletter — Appfire JXL feature announcement"
+    },
+    {
+      "thread_id": "19db1756eef77a90",
+      "date": "2026-04-21",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Time for your Q1 website performance check.",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — hosting provider service upsell"
+    },
+    {
+      "thread_id": "19db0c759deea058",
+      "date": "2026-04-21",
+      "sender": "hello@go.appfire.com",
+      "subject": "Formulas are now live in JXL",
+      "category": "Newsletter/Event",
+      "reason": "Vendor product newsletter — duplicate to dev alias"
+    },
+    {
+      "thread_id": "1984fb3902cbd37b",
+      "date": "2025-07-28",
+      "sender": "no-reply@appbox-team-vwc3n2qa.atlassian.net",
+      "subject": "[Action Required] Your Jira subscription will be cancelled in 30 days",
+      "category": "Automated Notification",
+      "reason": "Automated cancellation reminder for test Jira instance (vwc3n2qa)"
+    },
+    {
+      "thread_id": "1984e6ccb4cb7b25",
+      "date": "2025-07-28",
+      "sender": "no-reply@appbox-team-jdltlhfy.atlassian.net",
+      "subject": "[Action Required] Your Jira subscription will be cancelled in 30 days",
+      "category": "Automated Notification",
+      "reason": "Automated cancellation reminder for test Jira instance (jdltlhfy)"
+    },
+    {
+      "thread_id": "1983499c1d57c5a3",
+      "date": "2025-07-23",
+      "sender": "no-reply@appbox-dev.atlassian.net",
+      "subject": "[Action Required] Your Jira subscription will be cancelled in one week",
+      "category": "Automated Notification",
+      "reason": "Automated cancellation reminder for appbox-dev Jira instance"
+    },
+    {
+      "thread_id": "19851cae55ae66b4",
+      "date": "2025-07-28",
+      "sender": "houston_texas@atlassiancommunity.com",
+      "subject": "Information for this evenings event - Houston ACE Presents: Hyper Velocity ITSM! and Team25 Recap",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community Events newsletter for Houston chapter"
+    },
+    {
+      "thread_id": "1981d690e80d465b",
+      "date": "2025-07-18",
+      "sender": "atlas@appbox.atlassian.net",
+      "subject": "G'day Payal, it's time for your weekly project update! (18 Jul)",
+      "category": "Newsletter/Event",
+      "reason": "Atlas weekly project update reminder — automated"
+    },
+    {
+      "thread_id": "197f95c9fa057e3a",
+      "date": "2025-07-11",
+      "sender": "atlas@appbox.atlassian.net",
+      "subject": "G'day Payal, it's time for your weekly project update! (11 Jul)",
+      "category": "Newsletter/Event",
+      "reason": "Atlas weekly project update reminder — automated"
+    },
+    {
+      "thread_id": "1982d45d3474a2ee",
+      "date": "2025-07-21",
+      "sender": "no-reply@zoom.us",
+      "subject": "Your meeting - Checklist - DataCenter has been deleted",
+      "category": "Automated Notification",
+      "reason": "Automated Zoom notification — meeting deletion confirmation"
+    },
+    {
+      "thread_id": "1982cea317812d2e",
+      "date": "2025-07-21",
+      "sender": "calendar-notification@google.com",
+      "subject": "Accepted: Checklist - DataCenter @ Mon Jul 21, 2025 10am - 10:45am (EDT) (payal@appbox.ai)",
+      "category": "Automated Notification",
+      "reason": "Automated Google Calendar acceptance notification"
+    },
+    {
+      "thread_id": "1981527fb5df80b9",
+      "date": "2025-07-16",
+      "sender": "support@namecheap.com",
+      "subject": "Namecheap Order Summary (Order# 175957939)",
+      "category": "Automated Notification",
+      "reason": "Automated order receipt — domain registrar"
+    },
     {
       "thread_id": "19da28e161281e85",
       "date": "2026-04-18",
