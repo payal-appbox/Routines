@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T21:45:00Z",
+  "last_updated": "2026-04-30T20:30:00Z",
   "pending_delete": [
     {
       "thread_id": "19da28e161281e85",
@@ -136,6 +136,294 @@
       "subject": "Get your teams using Rovo today!",
       "category": "Onboarding/Newsletter",
       "reason": "Atlassian Rovo onboarding newsletter sent to test account"
+    },
+    {
+      "thread_id": "19de037b829538b8",
+      "date": "2026-04-30",
+      "sender": "jira@melon-inc.atlassian.net",
+      "subject": "Payal, here is your weekly update for 30 Apr",
+      "category": "Automated Notification",
+      "reason": "Automated weekly Jira digest from melon-inc — no action needed"
+    },
+    {
+      "thread_id": "19ddfe56067e2952",
+      "date": "2026-04-30",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Did you know your website has insights?",
+      "category": "Marketing/Promo",
+      "reason": "Bluehost marketing promo — Website Insights feature announcement"
+    },
+    {
+      "thread_id": "19ddfe26389cb31c",
+      "date": "2026-04-30",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Important Security Update: Your cPanel Has Been Secured",
+      "category": "Automated Notification",
+      "reason": "Bluehost cPanel security patch notification — no action required per email body"
+    },
+    {
+      "thread_id": "19ddf704a9bb06a0",
+      "date": "2026-04-30",
+      "sender": "outgoing@e.cloudsecurityalliance.org",
+      "subject": "CSAI Announcements: Catastrophic Risk Initiative, CNA Authorization, & Strategic Acquisitions",
+      "category": "Newsletter/Event",
+      "reason": "Cloud Security Alliance newsletter — informational only"
+    },
+    {
+      "thread_id": "19ddf012059636f9",
+      "date": "2026-04-30",
+      "sender": "twilio@appbox.ai",
+      "subject": "The I in AI",
+      "category": "Newsletter/Event",
+      "reason": "Twilio Developer Digest April 2026 newsletter"
+    },
+    {
+      "thread_id": "19ddef7b3d0df5d6",
+      "date": "2026-04-30",
+      "sender": "info@admin.manus.im",
+      "subject": "Spending weeks on market research? There's a faster way.",
+      "category": "Marketing/Promo",
+      "reason": "Manus marketing promo — market research tool upsell"
+    },
+    {
+      "thread_id": "19ddeae460f6b46d",
+      "date": "2026-04-30",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "Automated WordPress plugin update notification — no action needed"
+    },
+    {
+      "thread_id": "19ddea3151cbccfc",
+      "date": "2026-04-30",
+      "sender": "jobs@appbox.ai",
+      "subject": "We've updated our Terms of Service and Privacy Policy",
+      "category": "Automated Notification",
+      "reason": "Remote.com automated TOS/Privacy update notification"
+    },
+    {
+      "thread_id": "19ddc171ce6c203e",
+      "date": "2026-04-30",
+      "sender": "it@appbox.ai",
+      "subject": "[Action Required] Amazon Aurora PostgreSQL minor versions deprecating on May 31, 2026 [AWS Account: 785384671310] [US-EAST-1]",
+      "category": "Automated Notification",
+      "reason": "AWS Health automated deprecation notice — handled by IT team"
+    },
+    {
+      "thread_id": "19ddc004670d71ea",
+      "date": "2026-04-30",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "Automated WordPress plugin update notification — no action needed"
+    },
+    {
+      "thread_id": "19ddbfa418332790",
+      "date": "2026-04-30",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "Automated WordPress plugin update notification — no action needed"
+    },
+    {
+      "thread_id": "19ddbf4f093f30ac",
+      "date": "2026-04-30",
+      "sender": "it@appbox.ai",
+      "subject": "[Action required] AWS Batch ECS AL2 Deprecation starting June 30, 2026 [AWS Account: 785384671310] [US-EAST-2]",
+      "category": "Automated Notification",
+      "reason": "AWS Health automated deprecation notice — handled by IT team"
+    },
+    {
+      "thread_id": "19ddaaf43cc9ab37",
+      "date": "2026-04-29",
+      "sender": "no-reply@atlassiancommunity.com",
+      "subject": "A New Event!",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community Events NYC newsletter"
+    },
+    {
+      "thread_id": "19ddaaa6986abdce",
+      "date": "2026-04-29",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Your business just got an AI upgrade with Bluehost",
+      "category": "Marketing/Promo",
+      "reason": "Bluehost marketing newsletter — AI upgrade promo"
+    },
+    {
+      "thread_id": "19dda3db61824db5",
+      "date": "2026-04-29",
+      "sender": "it@appbox.ai",
+      "subject": "🌸 Spring in Jira's seasonal release cycle",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Jira admin newsletter April '26"
+    },
+    {
+      "thread_id": "19dd9d1268e31fa8",
+      "date": "2026-04-29",
+      "sender": "info@admin.manus.im",
+      "subject": "What if your spreadsheet could become a live dashboard?",
+      "category": "Marketing/Promo",
+      "reason": "Manus marketing promo — dashboard tool upsell"
+    },
+    {
+      "thread_id": "19dd94fc095b8d3d",
+      "date": "2026-04-29",
+      "sender": "hello@livelyapps.com",
+      "subject": "April Highlights: Team 26 and advanced Link Management",
+      "category": "Newsletter/Event",
+      "reason": "Lively Apps April newsletter"
+    },
+    {
+      "thread_id": "19dd915d7f1bdffe",
+      "date": "2026-04-29",
+      "sender": "it@appbox.ai",
+      "subject": "Meet codefortynine at Atlassian Team '26 and get more out of Jira",
+      "category": "Newsletter/Event",
+      "reason": "codefortynine partner event newsletter"
+    },
+    {
+      "thread_id": "19dd915bb0370f9c",
+      "date": "2026-04-29",
+      "sender": "noreply@codefortynine.com",
+      "subject": "Meet codefortynine at Atlassian Team '26 and get more out of Jira",
+      "category": "Newsletter/Event",
+      "reason": "codefortynine partner event newsletter — duplicate to alias"
+    },
+    {
+      "thread_id": "19dd6ef7ce8db20f",
+      "date": "2026-04-29",
+      "sender": "it@appbox.ai",
+      "subject": "[Action Required] AWS Lambda Node.js 20.x end-of-life [AWS Account: 785384671310] [US-EAST-2]",
+      "category": "Automated Notification",
+      "reason": "AWS Health automated Lambda EOL notice — handled by IT team"
+    },
+    {
+      "thread_id": "19dd6bfcd9c2b373",
+      "date": "2026-04-29",
+      "sender": "it@appbox.ai",
+      "subject": "[Action Required] AWS Lambda Node.js 20.x end-of-life [AWS Account: 785384671310] [US-EAST-1]",
+      "category": "Automated Notification",
+      "reason": "AWS Health automated Lambda EOL notice — handled by IT team"
+    },
+    {
+      "thread_id": "19dd583dfd297a80",
+      "date": "2026-04-28",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Never worry about manual backups again!",
+      "category": "Marketing/Promo",
+      "reason": "Bluehost marketing promo — auto-backups upsell"
+    },
+    {
+      "thread_id": "19dd4cbafa7e60ed",
+      "date": "2026-04-28",
+      "sender": "CloudPlatform-noreply@google.com",
+      "subject": "[Product Update] Google reCAPTCHA integrating into Google Cloud Fraud Defense",
+      "category": "Automated Notification",
+      "reason": "Google Cloud product update notification — informational only"
+    },
+    {
+      "thread_id": "19dd4307f5b7a067",
+      "date": "2026-04-28",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "Automated WordPress plugin update notification — no action needed"
+    },
+    {
+      "thread_id": "19dd40fda197d5b0",
+      "date": "2026-04-28",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "Automated WordPress plugin update notification — no action needed"
+    },
+    {
+      "thread_id": "19dd2a8738d66f4f",
+      "date": "2026-04-28",
+      "sender": "team@appbox.ai",
+      "subject": "Moderator's spam report for team@appbox.ai",
+      "category": "Automated Notification",
+      "reason": "Google Groups automated moderator spam report — no action needed"
+    },
+    {
+      "thread_id": "19dd0089df095529",
+      "date": "2026-04-27",
+      "sender": "servicedeskagent@appbox.ai",
+      "subject": "🚀 From garage to global powerhouse: hear from Reddit Co-Founder",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Team '26 closing keynote newsletter — duplicate to alias"
+    },
+    {
+      "thread_id": "19dd001e243f08a8",
+      "date": "2026-04-27",
+      "sender": "khaldrogo@appbox.ai",
+      "subject": "🚀 From garage to global powerhouse: hear from Reddit Co-Founder",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Team '26 closing keynote newsletter — duplicate to alias"
+    },
+    {
+      "thread_id": "19dd001c90015978",
+      "date": "2026-04-27",
+      "sender": "jamielannister@appbox.ai",
+      "subject": "🚀 From garage to global powerhouse: hear from Reddit Co-Founder",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Team '26 closing keynote newsletter — duplicate to alias"
+    },
+    {
+      "thread_id": "19dd001c82b8fa37",
+      "date": "2026-04-27",
+      "sender": "tyrionlannister@appbox.ai",
+      "subject": "🚀 From garage to global powerhouse: hear from Reddit Co-Founder",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Team '26 closing keynote newsletter — duplicate to alias"
+    },
+    {
+      "thread_id": "19dcff9570be3819",
+      "date": "2026-04-27",
+      "sender": "AppboxDemo@appbox.ai",
+      "subject": "🚀 From garage to global powerhouse: hear from Reddit Co-Founder",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Team '26 closing keynote newsletter — duplicate to alias"
+    },
+    {
+      "thread_id": "19dcff87d0d7848d",
+      "date": "2026-04-27",
+      "sender": "info@e.atlassian.com",
+      "subject": "🚀 From garage to global powerhouse: hear from Reddit Co-Founder",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Team '26 closing keynote newsletter — multiple copies to alias accounts"
+    },
+    {
+      "thread_id": "19dcff741008de9c",
+      "date": "2026-04-27",
+      "sender": "jira-issue-view-user1@appbox.ai",
+      "subject": "🚀 From garage to global powerhouse: hear from Reddit Co-Founder",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Team '26 closing keynote newsletter — duplicate to alias"
+    },
+    {
+      "thread_id": "19dcff4f3b154cdd",
+      "date": "2026-04-27",
+      "sender": "aryastark@appbox.ai",
+      "subject": "🚀 From garage to global powerhouse: hear from Reddit Co-Founder",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Team '26 closing keynote newsletter — duplicate to alias"
+    },
+    {
+      "thread_id": "19dcddb86132477f",
+      "date": "2026-04-27",
+      "sender": "it@appbox.ai",
+      "subject": "Jira Service Management has moved to Service Collection",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian product announcement newsletter"
+    },
+    {
+      "thread_id": "19dcd8e171f4bca0",
+      "date": "2026-04-27",
+      "sender": "it@appbox.ai",
+      "subject": "Appbox, did you implement your use case in Elements Overview?",
+      "category": "Marketing/Promo",
+      "reason": "Elements Overview vendor follow-up marketing email"
     }
   ]
 }
