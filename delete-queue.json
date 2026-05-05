@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T21:45:00Z",
+  "last_updated": "2026-05-05T17:40:00Z",
   "pending_delete": [
     {
       "thread_id": "19da28e161281e85",
@@ -136,6 +136,358 @@
       "subject": "Get your teams using Rovo today!",
       "category": "Onboarding/Newsletter",
       "reason": "Atlassian Rovo onboarding newsletter sent to test account"
+    },
+    {
+      "thread_id": "19df936c941d0d38",
+      "date": "2026-05-05",
+      "sender": "servicedeskagent@appbox.ai",
+      "subject": "Team '26 livestream starts tomorrow! 8:00 a.m. PDT",
+      "category": "Newsletter/Event",
+      "reason": "Duplicate Atlassian event newsletter sent to test account"
+    },
+    {
+      "thread_id": "19df93000f6217d2",
+      "date": "2026-05-05",
+      "sender": "khaldrogo@appbox.ai",
+      "subject": "Team '26 livestream starts tomorrow! 8:00 a.m. PDT",
+      "category": "Newsletter/Event",
+      "reason": "Duplicate Atlassian event newsletter sent to test account"
+    },
+    {
+      "thread_id": "19df93000efb8277",
+      "date": "2026-05-05",
+      "sender": "jamielannister@appbox.ai",
+      "subject": "Team '26 livestream starts tomorrow! 8:00 a.m. PDT",
+      "category": "Newsletter/Event",
+      "reason": "Duplicate Atlassian event newsletter sent to test account"
+    },
+    {
+      "thread_id": "19df9296d2aec9f5",
+      "date": "2026-05-05",
+      "sender": "jira-vendor@appbox.ai",
+      "subject": "Team '26 livestream starts tomorrow! 8:00 a.m. PDT",
+      "category": "Newsletter/Event",
+      "reason": "Duplicate Atlassian event newsletter sent to test account"
+    },
+    {
+      "thread_id": "19df9278dc81556e",
+      "date": "2026-05-05",
+      "sender": "jira-issue-view-user1@appbox.ai",
+      "subject": "Team '26 livestream starts tomorrow! 8:00 a.m. PDT",
+      "category": "Newsletter/Event",
+      "reason": "Duplicate Atlassian event newsletter sent to test account"
+    },
+    {
+      "thread_id": "19df926175c1b9e2",
+      "date": "2026-05-05",
+      "sender": "aryastark@appbox.ai",
+      "subject": "Team '26 livestream starts tomorrow! 8:00 a.m. PDT",
+      "category": "Newsletter/Event",
+      "reason": "Duplicate Atlassian event newsletter sent to test account"
+    },
+    {
+      "thread_id": "19df9257c7e63f61",
+      "date": "2026-05-05",
+      "sender": "info@e.atlassian.com",
+      "subject": "Team '26 livestream starts tomorrow! 8:00 a.m. PDT",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian event newsletter — multiple copies to alias accounts"
+    },
+    {
+      "thread_id": "19df924c28a72180",
+      "date": "2026-05-05",
+      "sender": "it@appbox.ai",
+      "subject": "Team '26 livestream starts tomorrow! 8:00 a.m. PDT",
+      "category": "Newsletter/Event",
+      "reason": "Duplicate Atlassian event newsletter sent to test account"
+    },
+    {
+      "thread_id": "19df7ffc776b0b1f",
+      "date": "2026-05-05",
+      "sender": "team@appbox.ai",
+      "subject": "[answer] Jira > Steer on an automation to list the missing ticks in a checkbox field",
+      "category": "Automated Notification",
+      "reason": "Atlassian Community search-alert digest — no action required"
+    },
+    {
+      "thread_id": "19df7ff875cd6b1f",
+      "date": "2026-05-05",
+      "sender": "team@appbox.ai",
+      "subject": "[post] Atlassian Community > Jira-Release-Readiness-Smart-Checklist-template_framed copy.png",
+      "category": "Automated Notification",
+      "reason": "Atlassian Community search-alert digest — no action required"
+    },
+    {
+      "thread_id": "19df6b4f7ae3ad54",
+      "date": "2026-05-05",
+      "sender": "team@appbox.ai",
+      "subject": "Moderator's spam report for team@appbox.ai",
+      "category": "Automated Notification",
+      "reason": "Google Groups moderator spam digest — automated"
+    },
+    {
+      "thread_id": "19df5a66fed24e5c",
+      "date": "2026-05-05",
+      "sender": "admin@appbox.ai",
+      "subject": "Moderator's spam report for admin@appbox.ai",
+      "category": "Automated Notification",
+      "reason": "Google Groups moderator spam digest — automated"
+    },
+    {
+      "thread_id": "19df46f76f5e8621",
+      "date": "2026-05-04",
+      "sender": "team@appbox.ai",
+      "subject": "[article] App Central > Jira Issue Collector Alternative: External issue creation screen and workflow automation",
+      "category": "Automated Notification",
+      "reason": "Atlassian Community search-alert digest — no action required"
+    },
+    {
+      "thread_id": "19df125302ff958d",
+      "date": "2026-05-04",
+      "sender": "team@appbox.ai",
+      "subject": "[post] Atlassian Community > 8-jira-issue-tracking-smart-checklist-software-licensing-management-example.png",
+      "category": "Automated Notification",
+      "reason": "Atlassian Community search-alert digest — no action required"
+    },
+    {
+      "thread_id": "19df08ae873ccd68",
+      "date": "2026-05-04",
+      "sender": "team@appbox.ai",
+      "subject": "[answer] App Central > Checklist plugin stopped working",
+      "category": "Automated Notification",
+      "reason": "Atlassian Community search-alert digest — no action required"
+    },
+    {
+      "thread_id": "19ddfe56067e2952",
+      "date": "2026-04-30",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Did you know your website has insights?",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — hosting provider feature pitch"
+    },
+    {
+      "thread_id": "19ddfe26389cb31c",
+      "date": "2026-04-30",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Important Security Update: Your cPanel Has Been Secured",
+      "category": "Automated Notification",
+      "reason": "Bluehost cPanel patch confirmation — explicitly states no action needed"
+    },
+    {
+      "thread_id": "19ddef7b3d0df5d6",
+      "date": "2026-04-30",
+      "sender": "info@admin.manus.im",
+      "subject": "Spending weeks on market research? There's a faster way.",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Manus AI tool outreach"
+    },
+    {
+      "thread_id": "19ddaaa6986abdce",
+      "date": "2026-04-29",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Your business just got an AI upgrade with Bluehost",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — hosting provider AI upsell"
+    },
+    {
+      "thread_id": "19dd9d1268e31fa8",
+      "date": "2026-04-29",
+      "sender": "info@admin.manus.im",
+      "subject": "What if your spreadsheet could become a live dashboard?",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Manus AI tool outreach"
+    },
+    {
+      "thread_id": "19dd915bb0370f9c",
+      "date": "2026-04-29",
+      "sender": "noreply@codefortynine.com",
+      "subject": "Meet codefortynine at Atlassian Team '26 and get more out of Jira",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Atlassian Marketplace partner event invite"
+    },
+    {
+      "thread_id": "19dd6fdea04145a0",
+      "date": "2026-04-29",
+      "sender": "team@appbox.ai",
+      "subject": "[question] Trello > Editing a checklist",
+      "category": "Automated Notification",
+      "reason": "Atlassian Community search-alert digest — no action required"
+    },
+    {
+      "thread_id": "19dd583dfd297a80",
+      "date": "2026-04-28",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Never worry about manual backups again!",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — hosting provider auto-backup upsell"
+    },
+    {
+      "thread_id": "19dd4cbafa7e60ed",
+      "date": "2026-04-28",
+      "sender": "CloudPlatform-noreply@google.com",
+      "subject": "[Product Update] Google reCAPTCHA integrating into Google Cloud Fraud Defense",
+      "category": "Automated Notification",
+      "reason": "GCP product-rebranding announcement — informational, no action required"
+    },
+    {
+      "thread_id": "19dd49500528167b",
+      "date": "2026-04-28",
+      "sender": "team@appbox.ai",
+      "subject": "[article] App Central > What breaks when you deactivate a user or remove them from groups in Jira? (real cases & checklist)",
+      "category": "Automated Notification",
+      "reason": "Atlassian Community search-alert digest — no action required"
+    },
+    {
+      "thread_id": "19dd4307f5b7a067",
+      "date": "2026-04-28",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress auto-update confirmation — explicitly states no action needed"
+    },
+    {
+      "thread_id": "19dd40fda197d5b0",
+      "date": "2026-04-28",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress auto-update confirmation — explicitly states no action needed"
+    },
+    {
+      "thread_id": "19dd309f2ca93269",
+      "date": "2026-04-28",
+      "sender": "team@appbox.ai",
+      "subject": "[question] Jira > Checklist plugin stopped working",
+      "category": "Automated Notification",
+      "reason": "Atlassian Community search-alert digest — no action required"
+    },
+    {
+      "thread_id": "19dcff87d0d7848d",
+      "date": "2026-04-27",
+      "sender": "info@e.atlassian.com",
+      "subject": "🚀 From garage to global powerhouse: hear from Reddit Co-Founder",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Team '26 closing keynote newsletter — multiple copies to alias accounts"
+    },
+    {
+      "thread_id": "19dcff741008de9c",
+      "date": "2026-04-27",
+      "sender": "jira-issue-view-user1@appbox.ai",
+      "subject": "🚀 From garage to global powerhouse: hear from Reddit Co-Founder",
+      "category": "Newsletter/Event",
+      "reason": "Duplicate Atlassian Team '26 keynote newsletter sent to test account"
+    },
+    {
+      "thread_id": "19dcff4f3b154cdd",
+      "date": "2026-04-27",
+      "sender": "aryastark@appbox.ai",
+      "subject": "🚀 From garage to global powerhouse: hear from Reddit Co-Founder",
+      "category": "Newsletter/Event",
+      "reason": "Duplicate Atlassian Team '26 keynote newsletter sent to test account"
+    },
+    {
+      "thread_id": "19dce7655c6b5d39",
+      "date": "2026-04-27",
+      "sender": "team@appbox.ai",
+      "subject": "[answer] Jira > Add users with specific domain to group",
+      "category": "Automated Notification",
+      "reason": "Atlassian Community search-alert digest — no action required"
+    },
+    {
+      "thread_id": "19dce2e4a07a6cc7",
+      "date": "2026-04-27",
+      "sender": "team@appbox.ai",
+      "subject": "[article] App Central > Jira Admin Cleanup Checklist: 6 Things to Automate Before Your Next Audit",
+      "category": "Automated Notification",
+      "reason": "Atlassian Community search-alert digest — no action required"
+    },
+    {
+      "thread_id": "19dcddb86132477f",
+      "date": "2026-04-27",
+      "sender": "it@appbox.ai",
+      "subject": "Jira Service Management has moved to Service Collection",
+      "category": "Automated Notification",
+      "reason": "Atlassian product-rebranding announcement — informational, no action required"
+    },
+    {
+      "thread_id": "19dcdbb93fedd9d5",
+      "date": "2026-04-27",
+      "sender": "it@appbox.ai",
+      "subject": "Your payment has been processed for the invoice IN-006-426-623",
+      "category": "Automated Notification",
+      "reason": "Atlassian payment confirmation — informational, no action required"
+    },
+    {
+      "thread_id": "19dcdae19c8f5a6f",
+      "date": "2026-04-27",
+      "sender": "it@appbox.ai",
+      "subject": "Your Atlassian quote QT-44M-K5A-EMR-YA3 is here!",
+      "category": "Automated Notification",
+      "reason": "Atlassian quote expired May 2 — no longer actionable"
+    },
+    {
+      "thread_id": "19dcd8e171f4bca0",
+      "date": "2026-04-27",
+      "sender": "it@appbox.ai",
+      "subject": "Appbox, did you implement your use case in Elements Overview?",
+      "category": "Marketing/Promo",
+      "reason": "Vendor trial follow-up email — promotional"
+    },
+    {
+      "thread_id": "19dcd70c7933a7c7",
+      "date": "2026-04-27",
+      "sender": "team@appbox.ai",
+      "subject": "[answer] Jira > Track Smart checklist in reports",
+      "category": "Automated Notification",
+      "reason": "Atlassian Community search-alert digest — no action required"
+    },
+    {
+      "thread_id": "19dc63051b9de625",
+      "date": "2026-04-25",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "How Bluehost helped a growing brand achieve greater stability",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — hosting provider customer spotlight"
+    },
+    {
+      "thread_id": "19dbbca15cbf8388",
+      "date": "2026-04-23",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Take the next step for your team with the AI All-Access Pack!",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — hosting provider AI upsell"
+    },
+    {
+      "thread_id": "19dbbc5c6601e94a",
+      "date": "2026-04-23",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Let's Celebrate National Email Day! Own Your Email, Own Your Brand!",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — hosting provider Google Workspace upsell"
+    },
+    {
+      "thread_id": "19dbaea0a1250980",
+      "date": "2026-04-23",
+      "sender": "info@admin.manus.im",
+      "subject": "Hiring a designer for every social media variation?",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Manus AI tool outreach"
+    },
+    {
+      "thread_id": "19db698acee442b9",
+      "date": "2026-04-22",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Optimize your products, content, and visibility with Yoast SEO Premium.",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — hosting provider SEO plugin upsell"
+    },
+    {
+      "thread_id": "19db5c53015631de",
+      "date": "2026-04-22",
+      "sender": "info@admin.manus.im",
+      "subject": "Still spending hours formatting slides?",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Manus AI tool outreach"
     }
   ]
 }
