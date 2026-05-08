@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T21:45:00Z",
+  "last_updated": "2026-05-08T12:40:00Z",
   "pending_delete": [
     {
       "thread_id": "19da28e161281e85",
@@ -136,6 +136,270 @@
       "subject": "Get your teams using Rovo today!",
       "category": "Onboarding/Newsletter",
       "reason": "Atlassian Rovo onboarding newsletter sent to test account"
+    },
+    {
+      "thread_id": "19e0474f0afb7120",
+      "date": "2026-05-07",
+      "sender": "team@mail.airtable.com",
+      "subject": "Introducing Hyperagent, by Airtable",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Airtable AI agent product launch"
+    },
+    {
+      "thread_id": "19e03e53427346fb",
+      "date": "2026-05-07",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Your AI agent. Set-up and Running in 60 seconds.",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Bluehost AI agent VPS hosting upsell"
+    },
+    {
+      "thread_id": "19e03e10e400dd8c",
+      "date": "2026-05-07",
+      "sender": "noreply@account.bluehost.com",
+      "subject": "Bluehost Upgrade & Maintenance Notification for MAY 8th Through MAY 8th",
+      "category": "Automated Notification",
+      "reason": "Hosting provider scheduled maintenance notification — no action needed"
+    },
+    {
+      "thread_id": "19e0304284dff580",
+      "date": "2026-05-07",
+      "sender": "info@admin.manus.im",
+      "subject": "Do you know what market intelligence your competitors are already using?",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Manus market intelligence upsell"
+    },
+    {
+      "thread_id": "19e04422a58a6fa6",
+      "date": "2026-05-07",
+      "sender": "jira@melon-inc.atlassian.net",
+      "subject": "Payal, here is your weekly update for 7 May",
+      "category": "Newsletter/Event",
+      "reason": "External Jira weekly digest — informational only, no action needed"
+    },
+    {
+      "thread_id": "19dfddedbdd8037f",
+      "date": "2026-05-06",
+      "sender": "info@admin.manus.im",
+      "subject": "Did you know AI-written copy can outperform human-written ads by 3x?",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Manus AI copywriting upsell"
+    },
+    {
+      "thread_id": "19dfd8c1dcbc4a93",
+      "date": "2026-05-06",
+      "sender": "twilio@appbox.ai",
+      "subject": "See the SIGNAL stage NOW",
+      "category": "Newsletter/Event",
+      "reason": "Twilio SIGNAL conference livestream promo to test account"
+    },
+    {
+      "thread_id": "19dfd6b5cd649bdc",
+      "date": "2026-05-06",
+      "sender": "notifications@mail.postman.com",
+      "subject": "Your 90-day offer for Postman ends May 15",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Postman 90-day free trial reminder"
+    },
+    {
+      "thread_id": "19dfd64ab4ce26b9",
+      "date": "2026-05-06",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress plugin auto-update confirmation — no action needed"
+    },
+    {
+      "thread_id": "19dfd645d478b1da",
+      "date": "2026-05-06",
+      "sender": "confluence@ecosystem.atlassian.net",
+      "subject": "Payal, Atlassian Marketplace New Partner Resources plus more pages your team is working on",
+      "category": "Newsletter/Event",
+      "reason": "Confluence weekly content recommendations digest"
+    },
+    {
+      "thread_id": "19dfb5fb077c125d",
+      "date": "2026-05-06",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress plugin auto-update confirmation on sandbox — no action needed"
+    },
+    {
+      "thread_id": "19dfacd74208c3cd",
+      "date": "2026-05-06",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress plugin auto-update confirmation — no action needed"
+    },
+    {
+      "thread_id": "19df936c941d0d38",
+      "date": "2026-05-05",
+      "sender": "servicedeskagent@appbox.ai",
+      "subject": "Team '26 livestream starts tomorrow! 8:00 a.m. PDT",
+      "category": "Newsletter/Event",
+      "reason": "Duplicate Atlassian Team '26 event newsletter to test account"
+    },
+    {
+      "thread_id": "19df93000f6217d2",
+      "date": "2026-05-05",
+      "sender": "khaldrogo@appbox.ai",
+      "subject": "Team '26 livestream starts tomorrow! 8:00 a.m. PDT",
+      "category": "Newsletter/Event",
+      "reason": "Duplicate Atlassian Team '26 event newsletter to test account"
+    },
+    {
+      "thread_id": "19df93000efb8277",
+      "date": "2026-05-05",
+      "sender": "jamielannister@appbox.ai",
+      "subject": "Team '26 livestream starts tomorrow! 8:00 a.m. PDT",
+      "category": "Newsletter/Event",
+      "reason": "Duplicate Atlassian Team '26 event newsletter to test account"
+    },
+    {
+      "thread_id": "19df9296d2aec9f5",
+      "date": "2026-05-05",
+      "sender": "jira-vendor@appbox.ai",
+      "subject": "Team '26 livestream starts tomorrow! 8:00 a.m. PDT",
+      "category": "Newsletter/Event",
+      "reason": "Duplicate Atlassian Team '26 event newsletter to test account"
+    },
+    {
+      "thread_id": "19df9278dc81556e",
+      "date": "2026-05-05",
+      "sender": "jira-issue-view-user1@appbox.ai",
+      "subject": "Team '26 livestream starts tomorrow! 8:00 a.m. PDT",
+      "category": "Newsletter/Event",
+      "reason": "Duplicate Atlassian Team '26 event newsletter to test account"
+    },
+    {
+      "thread_id": "19df926175c1b9e2",
+      "date": "2026-05-05",
+      "sender": "aryastark@appbox.ai",
+      "subject": "Team '26 livestream starts tomorrow! 8:00 a.m. PDT",
+      "category": "Newsletter/Event",
+      "reason": "Duplicate Atlassian Team '26 event newsletter to test account"
+    },
+    {
+      "thread_id": "19df9257c7e63f61",
+      "date": "2026-05-05",
+      "sender": "info@e.atlassian.com",
+      "subject": "Team '26 livestream starts tomorrow! 8:00 a.m. PDT",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Team '26 event newsletter — multiple copies to alias accounts"
+    },
+    {
+      "thread_id": "19df924c28a72180",
+      "date": "2026-05-05",
+      "sender": "it@appbox.ai",
+      "subject": "Team '26 livestream starts tomorrow! 8:00 a.m. PDT",
+      "category": "Newsletter/Event",
+      "reason": "Duplicate Atlassian Team '26 event newsletter to test account"
+    },
+    {
+      "thread_id": "19df6b4f7ae3ad54",
+      "date": "2026-05-05",
+      "sender": "team@appbox.ai",
+      "subject": "Moderator's spam report for team@appbox.ai",
+      "category": "Automated Notification",
+      "reason": "Google Groups moderator spam report — automated, no action needed"
+    },
+    {
+      "thread_id": "19df5a66fed24e5c",
+      "date": "2026-05-05",
+      "sender": "admin@appbox.ai",
+      "subject": "Moderator's spam report for admin@appbox.ai",
+      "category": "Automated Notification",
+      "reason": "Google Groups moderator spam report — automated, no action needed"
+    },
+    {
+      "thread_id": "19df4586a99a458a",
+      "date": "2026-05-04",
+      "sender": "it@appbox.ai",
+      "subject": "A new Amazon ElastiCache service update is available [AWS Account: 785384671310]",
+      "category": "Automated Notification",
+      "reason": "AWS ElastiCache service update notification — informational"
+    },
+    {
+      "thread_id": "19df125302ff958d",
+      "date": "2026-05-04",
+      "sender": "team@appbox.ai",
+      "subject": "[post] Atlassian Community > 8-jira-issue-tracking-smart-checklist-software-licensing-management-example.png",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community search alert digest — no action needed"
+    },
+    {
+      "thread_id": "19df7ff875cd6b1f",
+      "date": "2026-05-05",
+      "sender": "team@appbox.ai",
+      "subject": "[post] Atlassian Community > Jira-Release-Readiness-Smart-Checklist-template_framed copy.png",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community search alert digest — no action needed"
+    },
+    {
+      "thread_id": "19ddfe56067e2952",
+      "date": "2026-04-30",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Did you know your website has insights?",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Bluehost website insights upsell"
+    },
+    {
+      "thread_id": "19ddfe26389cb31c",
+      "date": "2026-04-30",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Important Security Update: Your cPanel Has Been Secured",
+      "category": "Automated Notification",
+      "reason": "Bluehost cPanel security patch confirmation — no action needed"
+    },
+    {
+      "thread_id": "19ddef7b3d0df5d6",
+      "date": "2026-04-30",
+      "sender": "info@admin.manus.im",
+      "subject": "Spending weeks on market research? There's a faster way.",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Manus market research upsell"
+    },
+    {
+      "thread_id": "19ddaaa6986abdce",
+      "date": "2026-04-29",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Your business just got an AI upgrade with Bluehost",
+      "category": "Newsletter/Event",
+      "reason": "Bluehost monthly Business Advantage newsletter"
+    },
+    {
+      "thread_id": "19dd9d1268e31fa8",
+      "date": "2026-04-29",
+      "sender": "info@admin.manus.im",
+      "subject": "What if your spreadsheet could become a live dashboard?",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Manus spreadsheet-to-dashboard upsell"
+    },
+    {
+      "thread_id": "19dd915bb0370f9c",
+      "date": "2026-04-29",
+      "sender": "noreply@codefortynine.com",
+      "subject": "Meet codefortynine at Atlassian Team '26 and get more out of Jira",
+      "category": "Marketing/Promo",
+      "reason": "Atlassian partner vendor event promo"
+    },
+    {
+      "thread_id": "19dd583dfd297a80",
+      "date": "2026-04-28",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Never worry about manual backups again!",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Bluehost auto-backup upsell"
+    },
+    {
+      "thread_id": "19dd4cbafa7e60ed",
+      "date": "2026-04-28",
+      "sender": "CloudPlatform-noreply@google.com",
+      "subject": "[Product Update] Google reCAPTCHA integrating into Google Cloud Fraud Defense",
+      "category": "Automated Notification",
+      "reason": "Google Cloud product update notification — informational only"
     }
   ]
 }
