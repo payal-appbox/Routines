@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T21:45:00Z",
+  "last_updated": "2026-05-23T15:30:00Z",
   "pending_delete": [
     {
       "thread_id": "19da28e161281e85",
@@ -136,6 +136,166 @@
       "subject": "Get your teams using Rovo today!",
       "category": "Onboarding/Newsletter",
       "reason": "Atlassian Rovo onboarding newsletter sent to test account"
+    },
+    {
+      "thread_id": "19e5575873332c3b",
+      "date": "2026-05-23",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Meet the chef whose business grew 35% every year with Bluehost",
+      "category": "Marketing/Promo",
+      "reason": "Hosting provider customer-spotlight marketing email"
+    },
+    {
+      "thread_id": "19e5258172019ec0",
+      "date": "2026-05-23",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress auto-update notice — no action needed"
+    },
+    {
+      "thread_id": "19e50f85cd136679",
+      "date": "2026-05-22",
+      "sender": "info@e.atlassian.com",
+      "subject": "Try AI in Confluence today with Premium",
+      "category": "Marketing/Promo",
+      "reason": "Atlassian product upsell — Confluence AI trial promo"
+    },
+    {
+      "thread_id": "19e500742f729e0d",
+      "date": "2026-05-22",
+      "sender": "teamtwilio@team.twilio.com",
+      "subject": "APPLY NOW - Twilio's Startup Program is Back…With A Twist",
+      "category": "Marketing/Promo",
+      "reason": "Twilio startup program promotional email"
+    },
+    {
+      "thread_id": "19e500c1d70b9a65",
+      "date": "2026-05-22",
+      "sender": "it@appbox.ai",
+      "subject": "APPLY NOW - Twilio's Startup Program is Back…With A Twist",
+      "category": "Marketing/Promo",
+      "reason": "Twilio startup program promo — copy delivered to it@ alias"
+    },
+    {
+      "thread_id": "19e500b060c816bd",
+      "date": "2026-05-22",
+      "sender": "twilio@appbox.ai",
+      "subject": "APPLY NOW - Twilio's Startup Program is Back…With A Twist",
+      "category": "Marketing/Promo",
+      "reason": "Twilio startup program promo — copy delivered to twilio@ alias"
+    },
+    {
+      "thread_id": "19e4d71e5f07c0c8",
+      "date": "2026-05-22",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress sandbox auto-update notice — no action needed"
+    },
+    {
+      "thread_id": "19e4ba03c26dbc6a",
+      "date": "2026-05-21",
+      "sender": "it@appbox.ai",
+      "subject": "Now available: Team '26 Solution Keynotes",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Team '26 event newsletter"
+    },
+    {
+      "thread_id": "19e4b4f3a00d3390",
+      "date": "2026-05-21",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Your site has updated to WordPress 7.0",
+      "category": "Automated Notification",
+      "reason": "WordPress sandbox core-update notice — no action needed"
+    },
+    {
+      "thread_id": "19e49b236b06e7ee",
+      "date": "2026-05-21",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Your site has updated to WordPress 7.0",
+      "category": "Automated Notification",
+      "reason": "WordPress core-update notice — no action needed"
+    },
+    {
+      "thread_id": "19e48463c39c759b",
+      "date": "2026-05-21",
+      "sender": "wordpress@support.appbox.ai",
+      "subject": "[AppBox Support] Your site has updated to WordPress 7.0",
+      "category": "Automated Notification",
+      "reason": "WordPress core-update notice (support site) — no action needed"
+    },
+    {
+      "thread_id": "19e480f2a2bd344b",
+      "date": "2026-05-21",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Some plugins and themes have automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress auto-update notice — no action needed"
+    },
+    {
+      "thread_id": "19e47dd831f9e710",
+      "date": "2026-05-21",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Some themes were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress sandbox auto-update notice — no action needed"
+    },
+    {
+      "thread_id": "19e484b7c0aaed1d",
+      "date": "2026-05-21",
+      "sender": "it@appbox.ai",
+      "subject": "Codex Product Update: Codex comes to your phone and works in Chrome",
+      "category": "Marketing/Promo",
+      "reason": "OpenAI Codex product-update marketing newsletter"
+    },
+    {
+      "thread_id": "19e3cd1e16a6177d",
+      "date": "2026-05-18",
+      "sender": "it@appbox.ai",
+      "subject": "Zoom Docs is now Zoom Canvas",
+      "category": "Marketing/Promo",
+      "reason": "Zoom product rebrand marketing newsletter"
+    },
+    {
+      "thread_id": "19e3bda3509319b6",
+      "date": "2026-05-18",
+      "sender": "info@admin.manus.im",
+      "subject": "Learn With Manus: May Webinar",
+      "category": "Newsletter/Event",
+      "reason": "Manus webinar invitation newsletter"
+    },
+    {
+      "thread_id": "19e31bd7697deed6",
+      "date": "2026-05-16",
+      "sender": "vimeo@vimeo.com",
+      "subject": "Try premium features for free",
+      "category": "Marketing/Promo",
+      "reason": "Vimeo premium upsell marketing email"
+    },
+    {
+      "thread_id": "19e316649f8ac477",
+      "date": "2026-05-16",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "The hosting Omlie Consulting trusts (now 60% off)",
+      "category": "Marketing/Promo",
+      "reason": "Hosting provider discount marketing email"
+    },
+    {
+      "thread_id": "19e2e50a4af2544d",
+      "date": "2026-05-16",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Some themes were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress auto-update notice — no action needed"
+    },
+    {
+      "thread_id": "19e2c9717287926b",
+      "date": "2026-05-15",
+      "sender": "vimeo@vimeo.com",
+      "subject": "Discover what sets Vimeo apart",
+      "category": "Marketing/Promo",
+      "reason": "Vimeo feature marketing email"
     }
   ]
 }
