@@ -1,6 +1,558 @@
 {
-  "last_updated": "2026-04-18T21:45:00Z",
+  "last_updated": "2026-05-24T11:00:00Z",
   "pending_delete": [
+    {
+      "thread_id": "19e5575873332c3b",
+      "date": "2026-05-23",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Meet the chef whose business grew 35% every year with Bluehost",
+      "category": "Marketing/Promo",
+      "reason": "Bluehost customer-spotlight marketing email"
+    },
+    {
+      "thread_id": "19e5258172019ec0",
+      "date": "2026-05-23",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress plugin auto-update notice — no action needed"
+    },
+    {
+      "thread_id": "19e50f85cd136679",
+      "date": "2026-05-22",
+      "sender": "info@e.atlassian.com",
+      "subject": "Try AI in Confluence today with Premium",
+      "category": "Marketing/Promo",
+      "reason": "Atlassian Confluence AI Premium upsell"
+    },
+    {
+      "thread_id": "19e500c1d70b9a65",
+      "date": "2026-05-22",
+      "sender": "it@appbox.ai",
+      "subject": "APPLY NOW - Twilio's Startup Program is Back…With A Twist",
+      "category": "Marketing/Promo",
+      "reason": "Twilio Startup Program promo"
+    },
+    {
+      "thread_id": "19e500b060c816bd",
+      "date": "2026-05-22",
+      "sender": "twilio@appbox.ai",
+      "subject": "APPLY NOW - Twilio's Startup Program is Back…With A Twist",
+      "category": "Marketing/Promo",
+      "reason": "Twilio Startup Program promo (alias copy)"
+    },
+    {
+      "thread_id": "19e500742f729e0d",
+      "date": "2026-05-22",
+      "sender": "teamtwilio@team.twilio.com",
+      "subject": "APPLY NOW - Twilio's Startup Program is Back…With A Twist",
+      "category": "Marketing/Promo",
+      "reason": "Twilio Startup Program promo"
+    },
+    {
+      "thread_id": "19e4d71e5f07c0c8",
+      "date": "2026-05-22",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress sandbox plugin auto-update notice"
+    },
+    {
+      "thread_id": "19e4ba03c26dbc6a",
+      "date": "2026-05-21",
+      "sender": "it@appbox.ai",
+      "subject": "Now available: Team '26 Solution Keynotes",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Team '26 event promo"
+    },
+    {
+      "thread_id": "19e4b4f3a00d3390",
+      "date": "2026-05-21",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Your site has updated to WordPress 7.0",
+      "category": "Automated Notification",
+      "reason": "WordPress version auto-update notice"
+    },
+    {
+      "thread_id": "19e49b236b06e7ee",
+      "date": "2026-05-21",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Your site has updated to WordPress 7.0",
+      "category": "Automated Notification",
+      "reason": "WordPress version auto-update notice"
+    },
+    {
+      "thread_id": "19e484b7c0aaed1d",
+      "date": "2026-05-21",
+      "sender": "it@appbox.ai",
+      "subject": "Codex Product Update: Codex comes to your phone and works in Chrome",
+      "category": "Newsletter/Event",
+      "reason": "OpenAI Codex product newsletter"
+    },
+    {
+      "thread_id": "19e48463c39c759b",
+      "date": "2026-05-21",
+      "sender": "wordpress@support.appbox.ai",
+      "subject": "[AppBox Support] Your site has updated to WordPress 7.0",
+      "category": "Automated Notification",
+      "reason": "WordPress version auto-update notice"
+    },
+    {
+      "thread_id": "19e480f2a2bd344b",
+      "date": "2026-05-21",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Some plugins and themes have automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress auto-update notice"
+    },
+    {
+      "thread_id": "19e47dd831f9e710",
+      "date": "2026-05-21",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Some themes were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress sandbox auto-update notice"
+    },
+    {
+      "thread_id": "19e3cd1e16a6177d",
+      "date": "2026-05-18",
+      "sender": "it@appbox.ai",
+      "subject": "Zoom Docs is now Zoom Canvas",
+      "category": "Newsletter/Event",
+      "reason": "Zoom product announcement newsletter"
+    },
+    {
+      "thread_id": "19e3bda3509319b6",
+      "date": "2026-05-18",
+      "sender": "info@admin.manus.im",
+      "subject": "Learn With Manus: May Webinar",
+      "category": "Marketing/Promo",
+      "reason": "Manus webinar promo"
+    },
+    {
+      "thread_id": "19e388d117df831a",
+      "date": "2026-05-18",
+      "sender": "it@appbox.ai",
+      "subject": "Run event-driven apps on AWS with Confluent Cloud",
+      "category": "Marketing/Promo",
+      "reason": "AWS Marketplace / Confluent Cloud promo"
+    },
+    {
+      "thread_id": "19e37d8cd6ca0301",
+      "date": "2026-05-17",
+      "sender": "no-reply@atlassiancommunity.com",
+      "subject": "Don't forget to RSVP!",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community event RSVP reminder"
+    },
+    {
+      "thread_id": "19e31bd7697deed6",
+      "date": "2026-05-16",
+      "sender": "vimeo@vimeo.com",
+      "subject": "Try premium features for free",
+      "category": "Marketing/Promo",
+      "reason": "Vimeo premium upsell"
+    },
+    {
+      "thread_id": "19e316649f8ac477",
+      "date": "2026-05-16",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "The hosting Omlie Consulting trusts (now 60% off)",
+      "category": "Marketing/Promo",
+      "reason": "Bluehost hosting promo"
+    },
+    {
+      "thread_id": "19e2e50a4af2544d",
+      "date": "2026-05-16",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Some themes were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress theme auto-update notice"
+    },
+    {
+      "thread_id": "19e2c9717287926b",
+      "date": "2026-05-15",
+      "sender": "vimeo@vimeo.com",
+      "subject": "Discover what sets Vimeo apart",
+      "category": "Marketing/Promo",
+      "reason": "Vimeo marketing email"
+    },
+    {
+      "thread_id": "19e2b18c99f052ca",
+      "date": "2026-05-15",
+      "sender": "phorestsummit@phorest.com",
+      "subject": "Still thinking about Killarney?",
+      "category": "Marketing/Promo",
+      "reason": "Phorest Summit registration promo"
+    },
+    {
+      "thread_id": "19e293a0f6f8a90c",
+      "date": "2026-05-15",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress plugin auto-update notice"
+    },
+    {
+      "thread_id": "19e2810a0264f613",
+      "date": "2026-05-14",
+      "sender": "workspace-noreply@google.com",
+      "subject": "You already have these premium features included",
+      "category": "Marketing/Promo",
+      "reason": "Google Workspace feature upsell"
+    },
+    {
+      "thread_id": "19e27b053decfd58",
+      "date": "2026-05-14",
+      "sender": "marketing@appbox.ai",
+      "subject": "The new Vimeo features you may have missed",
+      "category": "Marketing/Promo",
+      "reason": "Vimeo marketing email (alias)"
+    },
+    {
+      "thread_id": "19e2770d83ba2f28",
+      "date": "2026-05-14",
+      "sender": "vimeo@vimeo.com",
+      "subject": "Control your video's privacy",
+      "category": "Marketing/Promo",
+      "reason": "Vimeo marketing email"
+    },
+    {
+      "thread_id": "19e271104648b24e",
+      "date": "2026-05-14",
+      "sender": "info@admin.manus.im",
+      "subject": "Do you know how long it takes to adapt one message for every channel?",
+      "category": "Marketing/Promo",
+      "reason": "Manus marketing email"
+    },
+    {
+      "thread_id": "19e26051723fdb42",
+      "date": "2026-05-14",
+      "sender": "it@appbox.ai",
+      "subject": "TidyCal updates: Reusable themes, Promote page with LinkedIn posting, free reviews & subscriptions, and more",
+      "category": "Newsletter/Event",
+      "reason": "TidyCal product newsletter"
+    },
+    {
+      "thread_id": "19e25a3e8ee69081",
+      "date": "2026-05-14",
+      "sender": "phorestsummit@phorest.com",
+      "subject": "Still thinking about Killarney?",
+      "category": "Marketing/Promo",
+      "reason": "Phorest Summit promo (duplicate)"
+    },
+    {
+      "thread_id": "19e2436f868f858b",
+      "date": "2026-05-14",
+      "sender": "it@appbox.ai",
+      "subject": "A new monthly Agent SDK credit for your plan",
+      "category": "Newsletter/Event",
+      "reason": "Anthropic plan/product newsletter"
+    },
+    {
+      "thread_id": "19e224a7fe44a2e9",
+      "date": "2026-05-13",
+      "sender": "vimeo@vimeo.com",
+      "subject": "Your world-class video player",
+      "category": "Marketing/Promo",
+      "reason": "Vimeo marketing email"
+    },
+    {
+      "thread_id": "19e21e9522c10a34",
+      "date": "2026-05-13",
+      "sender": "info@admin.manus.im",
+      "subject": "Ever wondered how consultants build marketing strategies so fast?",
+      "category": "Marketing/Promo",
+      "reason": "Manus marketing email"
+    },
+    {
+      "thread_id": "19e2180a123be69c",
+      "date": "2026-05-13",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress sandbox auto-update notice"
+    },
+    {
+      "thread_id": "19e1e2540ed3da88",
+      "date": "2026-05-12",
+      "sender": "analytics-noreply@google.com",
+      "subject": "Your Google Analytics performance report is in for April 15th - May 12th",
+      "category": "Automated Notification",
+      "reason": "Google Analytics automated performance report"
+    },
+    {
+      "thread_id": "19e1d2a1620a3911",
+      "date": "2026-05-12",
+      "sender": "marketing@appbox.ai",
+      "subject": "We're making Vimeo faster for you",
+      "category": "Marketing/Promo",
+      "reason": "Vimeo marketing email (alias)"
+    },
+    {
+      "thread_id": "19e1d243b30b041b",
+      "date": "2026-05-12",
+      "sender": "vimeo@vimeo.com",
+      "subject": "Welcome to Vimeo!",
+      "category": "Marketing/Promo",
+      "reason": "Vimeo onboarding marketing"
+    },
+    {
+      "thread_id": "19e1d00846e2afc3",
+      "date": "2026-05-12",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Did you miss your new dashboard?",
+      "category": "Marketing/Promo",
+      "reason": "Bluehost product promo"
+    },
+    {
+      "thread_id": "19e1cbd5ff5a1bb9",
+      "date": "2026-05-12",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress sandbox auto-update notice"
+    },
+    {
+      "thread_id": "19e1c87ad098a783",
+      "date": "2026-05-12",
+      "sender": "it@appbox.ai",
+      "subject": "Your team, moving work forward with video 🎬",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Loom/Rovo adoption newsletter"
+    },
+    {
+      "thread_id": "19e1c6f37a58a66a",
+      "date": "2026-05-12",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress plugin auto-update notice"
+    },
+    {
+      "thread_id": "19e199d30e773305",
+      "date": "2026-05-12",
+      "sender": "it@appbox.ai",
+      "subject": "OpenAI Dev News: Realtime 2.0, Codex for Chrome, and beyond",
+      "category": "Newsletter/Event",
+      "reason": "OpenAI developer newsletter"
+    },
+    {
+      "thread_id": "19e16d7d04658bda",
+      "date": "2026-05-11",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress sandbox auto-update notice"
+    },
+    {
+      "thread_id": "19e166672125aefa",
+      "date": "2026-05-11",
+      "sender": "phorestsummit@phorest.com",
+      "subject": "Still thinking about Killarney?",
+      "category": "Marketing/Promo",
+      "reason": "Phorest Summit promo (duplicate)"
+    },
+    {
+      "thread_id": "19e0e5fc0f5557e4",
+      "date": "2026-05-09",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "The hosting switch that worked + 60% Off (Limited Time)",
+      "category": "Marketing/Promo",
+      "reason": "Bluehost promo"
+    },
+    {
+      "thread_id": "19e0474f0afb7120",
+      "date": "2026-05-07",
+      "sender": "team@mail.airtable.com",
+      "subject": "Introducing Hyperagent, by Airtable",
+      "category": "Marketing/Promo",
+      "reason": "Airtable product promo"
+    },
+    {
+      "thread_id": "19e03e53427346fb",
+      "date": "2026-05-07",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Your AI agent. Set-up and Running in 60 seconds.",
+      "category": "Marketing/Promo",
+      "reason": "Bluehost product promo"
+    },
+    {
+      "thread_id": "19e0304284dff580",
+      "date": "2026-05-07",
+      "sender": "info@admin.manus.im",
+      "subject": "Do you know what market intelligence your competitors are already using?",
+      "category": "Marketing/Promo",
+      "reason": "Manus marketing email"
+    },
+    {
+      "thread_id": "19dfddedbdd8037f",
+      "date": "2026-05-06",
+      "sender": "info@admin.manus.im",
+      "subject": "Did you know AI-written copy can outperform human-written ads by 3x?",
+      "category": "Marketing/Promo",
+      "reason": "Manus marketing email"
+    },
+    {
+      "thread_id": "19dfd6b5cd649bdc",
+      "date": "2026-05-06",
+      "sender": "notifications@mail.postman.com",
+      "subject": "Your 90-day offer for Postman ends May 15",
+      "category": "Marketing/Promo",
+      "reason": "Postman free-trial promo"
+    },
+    {
+      "thread_id": "19df9257c7e63f61",
+      "date": "2026-05-05",
+      "sender": "info@e.atlassian.com",
+      "subject": "Team '26 livestream starts tomorrow! 8:00 a.m. PDT",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Team '26 event blast (multiple alias copies in thread)"
+    },
+    {
+      "thread_id": "19ddfe56067e2952",
+      "date": "2026-04-30",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Did you know your website has insights?",
+      "category": "Marketing/Promo",
+      "reason": "Bluehost product promo"
+    },
+    {
+      "thread_id": "19ddef7b3d0df5d6",
+      "date": "2026-04-30",
+      "sender": "info@admin.manus.im",
+      "subject": "Spending weeks on market research? There's a faster way.",
+      "category": "Marketing/Promo",
+      "reason": "Manus marketing email"
+    },
+    {
+      "thread_id": "19ddaaa6986abdce",
+      "date": "2026-04-29",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Your business just got an AI upgrade with Bluehost",
+      "category": "Newsletter/Event",
+      "reason": "Bluehost monthly newsletter"
+    },
+    {
+      "thread_id": "19dd9d1268e31fa8",
+      "date": "2026-04-29",
+      "sender": "info@admin.manus.im",
+      "subject": "What if your spreadsheet could become a live dashboard?",
+      "category": "Marketing/Promo",
+      "reason": "Manus marketing email"
+    },
+    {
+      "thread_id": "19dd915bb0370f9c",
+      "date": "2026-04-29",
+      "sender": "noreply@codefortynine.com",
+      "subject": "Meet codefortynine at Atlassian Team '26 and get more out of Jira",
+      "category": "Marketing/Promo",
+      "reason": "Vendor event marketing"
+    },
+    {
+      "thread_id": "19dd583dfd297a80",
+      "date": "2026-04-28",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Never worry about manual backups again!",
+      "category": "Marketing/Promo",
+      "reason": "Bluehost product promo"
+    },
+    {
+      "thread_id": "19dd4307f5b7a067",
+      "date": "2026-04-28",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress plugin auto-update notice"
+    },
+    {
+      "thread_id": "19dd40fda197d5b0",
+      "date": "2026-04-28",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress sandbox auto-update notice"
+    },
+    {
+      "thread_id": "19dcddb86132477f",
+      "date": "2026-04-27",
+      "sender": "it@appbox.ai",
+      "subject": "Jira Service Management has moved to Service Collection",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian product announcement"
+    },
+    {
+      "thread_id": "19dc63051b9de625",
+      "date": "2026-04-25",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "How Bluehost helped a growing brand achieve greater stability",
+      "category": "Marketing/Promo",
+      "reason": "Bluehost customer-spotlight marketing"
+    },
+    {
+      "thread_id": "19dbbca15cbf8388",
+      "date": "2026-04-23",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Take the next step for your team with the AI All-Access Pack!",
+      "category": "Marketing/Promo",
+      "reason": "Bluehost promo"
+    },
+    {
+      "thread_id": "19dbbc5c6601e94a",
+      "date": "2026-04-23",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Let's Celebrate National Email Day! Own Your Email, Own Your Brand!",
+      "category": "Marketing/Promo",
+      "reason": "Bluehost / Google Workspace promo"
+    },
+    {
+      "thread_id": "19dbaea0a1250980",
+      "date": "2026-04-23",
+      "sender": "info@admin.manus.im",
+      "subject": "Hiring a designer for every social media variation?",
+      "category": "Marketing/Promo",
+      "reason": "Manus marketing email"
+    },
+    {
+      "thread_id": "19db698acee442b9",
+      "date": "2026-04-22",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Optimize your products, content, and visibility with Yoast SEO Premium.",
+      "category": "Marketing/Promo",
+      "reason": "Bluehost / Yoast SEO promo"
+    },
+    {
+      "thread_id": "19db5c53015631de",
+      "date": "2026-04-22",
+      "sender": "info@admin.manus.im",
+      "subject": "Still spending hours formatting slides?",
+      "category": "Marketing/Promo",
+      "reason": "Manus marketing email"
+    },
+    {
+      "thread_id": "19db51184cba54d7",
+      "date": "2026-04-22",
+      "sender": "hello@go.appfire.com",
+      "subject": "Formulas are now live in JXL",
+      "category": "Marketing/Promo",
+      "reason": "Appfire product promo"
+    },
+    {
+      "thread_id": "19db1756eef77a90",
+      "date": "2026-04-21",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Time for your Q1 website performance check.",
+      "category": "Marketing/Promo",
+      "reason": "Bluehost promo"
+    },
+    {
+      "thread_id": "19db0c759deea058",
+      "date": "2026-04-21",
+      "sender": "hello@go.appfire.com",
+      "subject": "Formulas are now live in JXL",
+      "category": "Marketing/Promo",
+      "reason": "Appfire product promo (alias duplicate)"
+    },
     {
       "thread_id": "19da28e161281e85",
       "date": "2026-04-18",
