@@ -952,6 +952,38 @@
       "subject": "[Product Update] Google reCAPTCHA integrating into Google Cloud Fraud Defense",
       "category": "Automated Notification",
       "reason": "Google Cloud product-update notice — no action"
+    },
+    {
+      "thread_id": "19e218f8e0f191f5",
+      "date": "2026-05-13",
+      "sender": "support@namecheap.com",
+      "subject": "Important updates to Shared Hosting pricing",
+      "category": "Automated Notification",
+      "reason": "Namecheap shared-hosting pricing notice — no action"
+    },
+    {
+      "thread_id": "19e166672125aefa",
+      "date": "2026-05-11",
+      "sender": "phorestsummit@phorest.com",
+      "subject": "Still thinking about Killarney?",
+      "category": "Marketing/Promo",
+      "reason": "Phorest Summit promo — duplicate"
+    },
+    {
+      "thread_id": "19e0e5fc0f5557e4",
+      "date": "2026-05-09",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "The hosting switch that worked + 60% Off (Limited Time)",
+      "category": "Marketing/Promo",
+      "reason": "Bluehost discount promo"
+    },
+    {
+      "thread_id": "19ddfe26389cb31c",
+      "date": "2026-04-30",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Important Security Update: Your cPanel Has Been Secured",
+      "category": "Automated Notification",
+      "reason": "Bluehost cPanel patch notice — explicitly no action needed"
     }
   ]
 }
