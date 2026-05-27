@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T21:45:00Z",
+  "last_updated": "2026-05-27T15:30:00Z",
   "pending_delete": [
     {
       "thread_id": "19da28e161281e85",
@@ -136,6 +136,206 @@
       "subject": "Get your teams using Rovo today!",
       "category": "Onboarding/Newsletter",
       "reason": "Atlassian Rovo onboarding newsletter sent to test account"
+    },
+    {
+      "thread_id": "19e69f4c995c79c8",
+      "date": "2026-05-27",
+      "sender": "info@e.atlassian.com",
+      "subject": "May Dev Newsletter: a new chapter",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Developer Newsletter (final edition) — no action needed"
+    },
+    {
+      "thread_id": "19e69c6a0e1a69d1",
+      "date": "2026-05-27",
+      "sender": "zeno@updates.resend.com",
+      "subject": "New Claude Plugin, Mention in chats, and Editor Updates",
+      "category": "Newsletter/Event",
+      "reason": "Resend product update newsletter"
+    },
+    {
+      "thread_id": "19e698829fcf4284",
+      "date": "2026-05-27",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress plugin auto-update notice — no action needed"
+    },
+    {
+      "thread_id": "19e695f224f80274",
+      "date": "2026-05-27",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress plugin auto-update notice (sandbox) — no action needed"
+    },
+    {
+      "thread_id": "19e665d28e5800bc",
+      "date": "2026-05-26",
+      "sender": "analytics-noreply@google.com",
+      "subject": "Your Google Analytics performance report is in for April 29th - May 26th",
+      "category": "Automated Notification",
+      "reason": "Automated Google Analytics report digest"
+    },
+    {
+      "thread_id": "19e65dc68e244454",
+      "date": "2026-05-26",
+      "sender": "workspace-noreply@google.com",
+      "subject": "You have new tools waiting in Gmail, Chat, and Vids",
+      "category": "Marketing/Promo",
+      "reason": "Google Workspace feature marketing"
+    },
+    {
+      "thread_id": "19e65c75dd063f14",
+      "date": "2026-05-26",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Last chance: 25% off Premium SSL. Ends May 31.",
+      "category": "Marketing/Promo",
+      "reason": "Bluehost SSL discount promo"
+    },
+    {
+      "thread_id": "19e656d2615b86b7",
+      "date": "2026-05-26",
+      "sender": "no-reply@atlassiancommunity.com",
+      "subject": "A New Event!",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community event announcements (NY/DC)"
+    },
+    {
+      "thread_id": "19e64f91db4f5d57",
+      "date": "2026-05-26",
+      "sender": "it@appbox.ai",
+      "subject": "Plan your AWS Summit Washington, D.C. experience",
+      "category": "Newsletter/Event",
+      "reason": "AWS Summit event promotion"
+    },
+    {
+      "thread_id": "19e64eebb7f00c68",
+      "date": "2026-05-26",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress plugin auto-update notice (sandbox) — no action needed"
+    },
+    {
+      "thread_id": "19e6463c614598b8",
+      "date": "2026-05-26",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress plugin auto-update notice — no action needed"
+    },
+    {
+      "thread_id": "19e62196cd2802e7",
+      "date": "2026-05-26",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress plugin auto-update notice (sandbox) — no action needed"
+    },
+    {
+      "thread_id": "19e5575873332c3b",
+      "date": "2026-05-23",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Meet the chef whose business grew 35% every year with Bluehost",
+      "category": "Marketing/Promo",
+      "reason": "Bluehost customer-spotlight marketing"
+    },
+    {
+      "thread_id": "19e5258172019ec0",
+      "date": "2026-05-23",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress plugin auto-update notice — no action needed"
+    },
+    {
+      "thread_id": "19e50f85cd136679",
+      "date": "2026-05-22",
+      "sender": "info@e.atlassian.com",
+      "subject": "Try AI in Confluence today with Premium",
+      "category": "Marketing/Promo",
+      "reason": "Atlassian Confluence AI upsell promo"
+    },
+    {
+      "thread_id": "19e500c1d70b9a65",
+      "date": "2026-05-22",
+      "sender": "it@appbox.ai",
+      "subject": "APPLY NOW - Twilio's Startup Program is Back…With A Twist",
+      "category": "Marketing/Promo",
+      "reason": "Twilio startup program promo"
+    },
+    {
+      "thread_id": "19e500b060c816bd",
+      "date": "2026-05-22",
+      "sender": "twilio@appbox.ai",
+      "subject": "APPLY NOW - Twilio's Startup Program is Back…With A Twist",
+      "category": "Marketing/Promo",
+      "reason": "Twilio startup program promo (alias copy)"
+    },
+    {
+      "thread_id": "19e500742f729e0d",
+      "date": "2026-05-22",
+      "sender": "teamtwilio@team.twilio.com",
+      "subject": "APPLY NOW - Twilio's Startup Program is Back…With A Twist",
+      "category": "Marketing/Promo",
+      "reason": "Twilio startup program promo"
+    },
+    {
+      "thread_id": "19e4d71e5f07c0c8",
+      "date": "2026-05-22",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress plugin auto-update notice (sandbox) — no action needed"
+    },
+    {
+      "thread_id": "19e4ba03c26dbc6a",
+      "date": "2026-05-21",
+      "sender": "it@appbox.ai",
+      "subject": "Now available: Team '26 Solution Keynotes",
+      "category": "Marketing/Promo",
+      "reason": "Atlassian Team '26 keynote marketing"
+    },
+    {
+      "thread_id": "19e4b4f3a00d3390",
+      "date": "2026-05-21",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Your site has updated to WordPress 7.0",
+      "category": "Automated Notification",
+      "reason": "WordPress core auto-update notice (sandbox) — no action needed"
+    },
+    {
+      "thread_id": "19e49b236b06e7ee",
+      "date": "2026-05-21",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Your site has updated to WordPress 7.0",
+      "category": "Automated Notification",
+      "reason": "WordPress core auto-update notice — no action needed"
+    },
+    {
+      "thread_id": "19e484b7c0aaed1d",
+      "date": "2026-05-21",
+      "sender": "it@appbox.ai",
+      "subject": "Codex Product Update: Codex comes to your phone and works in Chrome",
+      "category": "Marketing/Promo",
+      "reason": "OpenAI Codex product marketing newsletter"
+    },
+    {
+      "thread_id": "19e48463c39c759b",
+      "date": "2026-05-21",
+      "sender": "wordpress@support.appbox.ai",
+      "subject": "[AppBox Support] Your site has updated to WordPress 7.0",
+      "category": "Automated Notification",
+      "reason": "WordPress core auto-update notice (support site) — no action needed"
+    },
+    {
+      "thread_id": "19e480f2a2bd344b",
+      "date": "2026-05-21",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Some plugins and themes have automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress plugin/theme auto-update notice — no action needed"
     }
   ]
 }
