@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T21:45:00Z",
+  "last_updated": "2026-06-01T22:00:00Z",
   "pending_delete": [
     {
       "thread_id": "19da28e161281e85",
@@ -136,6 +136,710 @@
       "subject": "Get your teams using Rovo today!",
       "category": "Onboarding/Newsletter",
       "reason": "Atlassian Rovo onboarding newsletter sent to test account"
+    },
+    {
+      "thread_id": "19e853111226316a",
+      "date": "2026-06-01",
+      "sender": "it@appbox.ai",
+      "subject": "Amazon Web Services Billing Statement Available [Account: 720623770104]",
+      "category": "Automated Notification",
+      "reason": "AWS billing statement availability notice — auto-charged, no action needed"
+    },
+    {
+      "thread_id": "19e84e6b06b4aea3",
+      "date": "2026-06-01",
+      "sender": "it@appbox.ai",
+      "subject": "Save hours after meetings—get started today",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Zoom AI Productivity Suite upsell"
+    },
+    {
+      "thread_id": "19e84432c10b57a6",
+      "date": "2026-06-01",
+      "sender": "admin@appbox.ai",
+      "subject": "Google Workspace: Your invoice is available for appbox.ai",
+      "category": "Automated Notification",
+      "reason": "Google Workspace monthly invoice availability — auto-charged, no action needed"
+    },
+    {
+      "thread_id": "19e8415e6f64b334",
+      "date": "2026-06-01",
+      "sender": "team@appbox.ai",
+      "subject": "[comment] Atlassian AI & Rovo > “I'm king of the world!” = you, after coming to Rovo Real Talk",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community search alert — informational, no action needed"
+    },
+    {
+      "thread_id": "19e83b837ff4e943",
+      "date": "2026-06-01",
+      "sender": "it@appbox.ai",
+      "subject": "You're invited! Xray Workshop: Reporting with Document Generator",
+      "category": "Newsletter/Event",
+      "reason": "Workshop invite — promotional, no action needed"
+    },
+    {
+      "thread_id": "19e839f7656bc3d8",
+      "date": "2026-06-01",
+      "sender": "team@appbox.ai",
+      "subject": "[article] App Central > When Confluence tables become operational registers: a practical model for enterprise teams",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community search alert — informational, no action needed"
+    },
+    {
+      "thread_id": "19e8154d124b2faa",
+      "date": "2026-06-01",
+      "sender": "team@appbox.ai",
+      "subject": "[answer] Confluence > Legacy editor: managing previous revisions",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community search alert — informational, no action needed"
+    },
+    {
+      "thread_id": "19e80fc3d2a431ec",
+      "date": "2026-06-01",
+      "sender": "team@appbox.ai",
+      "subject": "[question] Jira Service Management > How can I add a new preset check list to be called in JSM ticket UI?",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community search alert — informational, no action needed"
+    },
+    {
+      "thread_id": "19e80ece6b5e1fe8",
+      "date": "2026-06-01",
+      "sender": "it@appbox.ai",
+      "subject": "2 domains need configuration on team 'it's projects'",
+      "category": "Automated Notification",
+      "reason": "Vercel automated domain configuration notice — recurring system alert"
+    },
+    {
+      "thread_id": "19e7f6736445ca78",
+      "date": "2026-05-31",
+      "sender": "it@appbox.ai",
+      "subject": "Secure link to log in to Claude.ai | 2026-06-01 00:28:48",
+      "category": "Automated Notification",
+      "reason": "Claude.ai magic sign-in link — expired, no action needed"
+    },
+    {
+      "thread_id": "19e7f61153370cfb",
+      "date": "2026-05-31",
+      "sender": "admin@appbox.ai",
+      "subject": "Secure link to log in to Claude.ai | 2026-06-01 00:22:07",
+      "category": "Automated Notification",
+      "reason": "Claude.ai magic sign-in link — expired, no action needed"
+    },
+    {
+      "thread_id": "19e7e6824b49a0f3",
+      "date": "2026-05-31",
+      "sender": "it@appbox.ai",
+      "subject": "[Action may be required] Payments Page Domain Migration [AWS Account: 720623770104] [US-EAST-1]",
+      "category": "Automated Notification",
+      "reason": "AWS Health Event notice — review and forward to engineering if action needed (low urgency)"
+    },
+    {
+      "thread_id": "19e7a9f9fbbcec7c",
+      "date": "2026-05-30",
+      "sender": "calendar-notification@google.com",
+      "subject": "Accepted: TimesTen @ Sat May 30, 2026 10:30pm - 11:30pm (EDT) (payal@appbox.ai)",
+      "category": "Automated Notification",
+      "reason": "Google Calendar acceptance auto-notification — meeting has occurred, no action needed"
+    },
+    {
+      "thread_id": "19e7a1bdcff30ca7",
+      "date": "2026-05-30",
+      "sender": "info@e.atlassian.com",
+      "subject": "Save time with Confluence Automation!",
+      "category": "Marketing/Promo",
+      "reason": "Atlassian Confluence Premium upsell — promotional"
+    },
+    {
+      "thread_id": "19e79a57d88e12a5",
+      "date": "2026-05-30",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "You haven't checked out your dashboard yet",
+      "category": "Marketing/Promo",
+      "reason": "Bluehost dashboard nudge — promotional"
+    },
+    {
+      "thread_id": "19e76c73dc8a3d31",
+      "date": "2026-05-30",
+      "sender": "analytics-noreply@google.com",
+      "subject": "Your Google Analytics performance report is in for May 2nd - 29th",
+      "category": "Automated Notification",
+      "reason": "Google Analytics monthly digest — no action needed"
+    },
+    {
+      "thread_id": "19e766c30d58f562",
+      "date": "2026-05-30",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress automatic plugin update notice — no action needed"
+    },
+    {
+      "thread_id": "19e76677c11bc2e5",
+      "date": "2026-05-30",
+      "sender": "it@appbox.ai",
+      "subject": "[Action required] AWS Batch ECS AL2 Deprecation starting June 30, 2026 [AWS Account: 785384671310] [US-EAST-2]",
+      "category": "Automated Notification",
+      "reason": "AWS Health Event notice — review and forward to engineering if action needed"
+    },
+    {
+      "thread_id": "19e764e55e3ce0a9",
+      "date": "2026-05-30",
+      "sender": "onboarding@resend.dev",
+      "subject": "Your Bright Smile Dental appointment is confirmed",
+      "category": "Automated Notification",
+      "reason": "Resend.dev test email (Bright Smile Dental sample) — no real appointment"
+    },
+    {
+      "thread_id": "19e74ee0342074c0",
+      "date": "2026-05-29",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Final reminder: Your 20% off offer ends soon",
+      "category": "Marketing/Promo",
+      "reason": "Bluehost promotional offer — marketing"
+    },
+    {
+      "thread_id": "19e7495132beaf5e",
+      "date": "2026-05-29",
+      "sender": "security@appbox.ai",
+      "subject": "Moderator's spam report for security@appbox.ai",
+      "category": "Automated Notification",
+      "reason": "Google Group moderator daily spam digest — no action needed"
+    },
+    {
+      "thread_id": "19e74934780b8922",
+      "date": "2026-05-29",
+      "sender": "billing@appbox.ai",
+      "subject": "Moderator's spam report for billing@appbox.ai",
+      "category": "Automated Notification",
+      "reason": "Google Group moderator daily spam digest — no action needed"
+    },
+    {
+      "thread_id": "19e73a7eb7c9c883",
+      "date": "2026-05-29",
+      "sender": "team@appbox.ai",
+      "subject": "[article] App Central > Jira MCP Explained: What It Does, What It Doesn't, and How to Use It",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community search alert — informational"
+    },
+    {
+      "thread_id": "19e73407cf84bab8",
+      "date": "2026-05-29",
+      "sender": "hello@livelyapps.com",
+      "subject": "Lively Apps May Update",
+      "category": "Newsletter/Event",
+      "reason": "Vendor monthly newsletter — informational"
+    },
+    {
+      "thread_id": "19e732f94700e268",
+      "date": "2026-05-29",
+      "sender": "team@appbox.ai",
+      "subject": "[question] App Central > Migration",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community search alert — informational"
+    },
+    {
+      "thread_id": "19e714b5c91e4e65",
+      "date": "2026-05-29",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress sandbox automatic plugin update notice — no action needed"
+    },
+    {
+      "thread_id": "19e71471aafd4492",
+      "date": "2026-05-29",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress automatic plugin update notice — no action needed"
+    },
+    {
+      "thread_id": "19e710965d1fad87",
+      "date": "2026-05-29",
+      "sender": "it@appbox.ai",
+      "subject": "Hand off more to Claude Opus 4.8",
+      "category": "Marketing/Promo",
+      "reason": "Anthropic product announcement — marketing"
+    },
+    {
+      "thread_id": "19e7057bf289bd2e",
+      "date": "2026-05-28",
+      "sender": "aykhan@banyansoftware.com",
+      "subject": "How does your AI strategy compare?",
+      "category": "Marketing/Promo",
+      "reason": "Cold sales outreach — generic AI benchmark pitch"
+    },
+    {
+      "thread_id": "19e703aaa756daf2",
+      "date": "2026-05-28",
+      "sender": "it@appbox.ai",
+      "subject": "Watch Team '26: hear from Atlassian customers like Wendy's",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Team '26 on-demand promo — informational"
+    },
+    {
+      "thread_id": "19e70111da5a4011",
+      "date": "2026-05-28",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Growing together! Exclusive offers, stories and resources for small business month",
+      "category": "Marketing/Promo",
+      "reason": "Bluehost monthly promotional newsletter"
+    },
+    {
+      "thread_id": "19e6f3ca653fb9d4",
+      "date": "2026-05-28",
+      "sender": "team@appbox.ai",
+      "subject": "[question] Trello > Login problem with gmail",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community search alert — informational"
+    },
+    {
+      "thread_id": "19e6f23cd302c126",
+      "date": "2026-05-28",
+      "sender": "it@appbox.ai",
+      "subject": "Elephants never forget (neither do our agents)",
+      "category": "Newsletter/Event",
+      "reason": "Twilio Developer Digest — informational newsletter"
+    },
+    {
+      "thread_id": "19e6f199a5982491",
+      "date": "2026-05-28",
+      "sender": "twilio@appbox.ai",
+      "subject": "Elephants never forget (neither do our agents)",
+      "category": "Newsletter/Event",
+      "reason": "Twilio Developer Digest — duplicate to alias account"
+    },
+    {
+      "thread_id": "19e6e77239464201",
+      "date": "2026-05-28",
+      "sender": "it@appbox.ai",
+      "subject": "Your Dropbox account is nearing its storage limit, it.",
+      "category": "Automated Notification",
+      "reason": "Dropbox storage limit nudge — no urgent action needed"
+    },
+    {
+      "thread_id": "19e6df5f9d1a390f",
+      "date": "2026-05-28",
+      "sender": "team@appbox.ai",
+      "subject": "[question] Jira > Curious how other teams handle Definition of Done",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community search alert — informational"
+    },
+    {
+      "thread_id": "19e6c27c2dfdb7ff",
+      "date": "2026-05-28",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress automatic plugin update notice — no action needed"
+    },
+    {
+      "thread_id": "19e6a5364e1ee3e3",
+      "date": "2026-05-27",
+      "sender": "rodolfo@updates.workflowy.com",
+      "subject": "Update 2026.05 - Timeline, Today Digest, iOS Quick Add, and more",
+      "category": "Newsletter/Event",
+      "reason": "Workflowy product update newsletter — informational"
+    },
+    {
+      "thread_id": "19e69f4c995c79c8",
+      "date": "2026-05-27",
+      "sender": "info@e.atlassian.com",
+      "subject": "May Dev Newsletter: a new chapter",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Developer Newsletter — final edition, informational"
+    },
+    {
+      "thread_id": "19e69c6a0e1a69d1",
+      "date": "2026-05-27",
+      "sender": "zeno@updates.resend.com",
+      "subject": "New Claude Plugin, Mention in chats, and Editor Updates",
+      "category": "Newsletter/Event",
+      "reason": "Resend product update newsletter — informational"
+    },
+    {
+      "thread_id": "19e698829fcf4284",
+      "date": "2026-05-27",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress automatic plugin update notice — no action needed"
+    },
+    {
+      "thread_id": "19e695f224f80274",
+      "date": "2026-05-27",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress sandbox automatic plugin update notice — no action needed"
+    },
+    {
+      "thread_id": "19e690d5140dcb5c",
+      "date": "2026-05-27",
+      "sender": "team@appbox.ai",
+      "subject": "[comment] Jira Cloud Admins > Jira Instance Cleanup Guide",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community search alert — informational"
+    },
+    {
+      "thread_id": "19e665d28e5800bc",
+      "date": "2026-05-26",
+      "sender": "analytics-noreply@google.com",
+      "subject": "Your Google Analytics performance report is in for April 29th - May 26th",
+      "category": "Automated Notification",
+      "reason": "Google Analytics monthly digest — no action needed"
+    },
+    {
+      "thread_id": "19e65dc68e244454",
+      "date": "2026-05-26",
+      "sender": "workspace-noreply@google.com",
+      "subject": "You have new tools waiting in Gmail, Chat, and Vids",
+      "category": "Marketing/Promo",
+      "reason": "Google Workspace feature announcement — promotional"
+    },
+    {
+      "thread_id": "19e65c75dd063f14",
+      "date": "2026-05-26",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Last chance: 25% off Premium SSL. Ends May 31.",
+      "category": "Marketing/Promo",
+      "reason": "Bluehost Premium SSL promotional offer"
+    },
+    {
+      "thread_id": "19e656d2615b86b7",
+      "date": "2026-05-26",
+      "sender": "no-reply@atlassiancommunity.com",
+      "subject": "A New Event! (Atlassian Community Events - New York / DC)",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community Events announcements — informational"
+    },
+    {
+      "thread_id": "19e64f91db4f5d57",
+      "date": "2026-05-26",
+      "sender": "it@appbox.ai",
+      "subject": "Plan your AWS Summit Washington, D.C. experience",
+      "category": "Newsletter/Event",
+      "reason": "AWS Summit promotional event email"
+    },
+    {
+      "thread_id": "19e64eebb7f00c68",
+      "date": "2026-05-26",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress sandbox automatic plugin update notice — no action needed"
+    },
+    {
+      "thread_id": "19e64ae30c78cba8",
+      "date": "2026-05-26",
+      "sender": "jobs@appbox.ai",
+      "subject": "An unknown device or browser has been used to access your account",
+      "category": "Automated Notification",
+      "reason": "Upwork new-device login notice (recognized by Vikas) — no action needed"
+    },
+    {
+      "thread_id": "19e6463c614598b8",
+      "date": "2026-05-26",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress automatic plugin update notice — no action needed"
+    },
+    {
+      "thread_id": "19e6446a9f2a0317",
+      "date": "2026-05-26",
+      "sender": "team@appbox.ai",
+      "subject": "[article] App Central > Build Custom Forge Apps with Integrations from a Single Prompt",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community search alert — informational"
+    },
+    {
+      "thread_id": "19e62196cd2802e7",
+      "date": "2026-05-26",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress sandbox automatic plugin update notice — no action needed"
+    },
+    {
+      "thread_id": "19e5ed3321c1105e",
+      "date": "2026-05-25",
+      "sender": "it@appbox.ai",
+      "subject": "You're getting close to your Dropbox storage limit, it.",
+      "category": "Automated Notification",
+      "reason": "Dropbox storage limit nudge — no urgent action needed"
+    },
+    {
+      "thread_id": "19e5575873332c3b",
+      "date": "2026-05-23",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Meet the chef whose business grew 35% every year with Bluehost",
+      "category": "Marketing/Promo",
+      "reason": "Bluehost customer spotlight promotional"
+    },
+    {
+      "thread_id": "19e53c8a10071cd5",
+      "date": "2026-05-23",
+      "sender": "team@appbox.ai",
+      "subject": "[answer] Trello > Checklist Due Dates?",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community search alert — informational"
+    },
+    {
+      "thread_id": "19e5258172019ec0",
+      "date": "2026-05-23",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress automatic plugin update notice — no action needed"
+    },
+    {
+      "thread_id": "19e511091c9a987a",
+      "date": "2026-05-22",
+      "sender": "team@appbox.ai",
+      "subject": "[article] App Central > Field Schemes Are Here: What It Means for Your Automation Rules",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community search alert — informational"
+    },
+    {
+      "thread_id": "19e50f85cd136679",
+      "date": "2026-05-22",
+      "sender": "info@e.atlassian.com",
+      "subject": "Try AI in Confluence today with Premium",
+      "category": "Marketing/Promo",
+      "reason": "Atlassian Confluence Premium promotional"
+    },
+    {
+      "thread_id": "19e508891a003cde",
+      "date": "2026-05-22",
+      "sender": "security@appbox.ai",
+      "subject": "Moderator's spam report for security@appbox.ai",
+      "category": "Automated Notification",
+      "reason": "Google Group moderator daily spam digest — no action needed"
+    },
+    {
+      "thread_id": "19e5086c2c7a255c",
+      "date": "2026-05-22",
+      "sender": "billing@appbox.ai",
+      "subject": "Moderator's spam report for billing@appbox.ai",
+      "category": "Automated Notification",
+      "reason": "Google Group moderator daily spam digest — no action needed"
+    },
+    {
+      "thread_id": "19e500c1d70b9a65",
+      "date": "2026-05-22",
+      "sender": "it@appbox.ai",
+      "subject": "APPLY NOW - Twilio's Startup Program is Back…With A Twist",
+      "category": "Marketing/Promo",
+      "reason": "Twilio Startup Program promotional"
+    },
+    {
+      "thread_id": "19e500b060c816bd",
+      "date": "2026-05-22",
+      "sender": "twilio@appbox.ai",
+      "subject": "APPLY NOW - Twilio's Startup Program is Back…With A Twist",
+      "category": "Marketing/Promo",
+      "reason": "Twilio Startup Program promo — duplicate to alias account"
+    },
+    {
+      "thread_id": "19e500742f729e0d",
+      "date": "2026-05-22",
+      "sender": "teamtwilio@team.twilio.com",
+      "subject": "APPLY NOW - Twilio's Startup Program is Back…With A Twist",
+      "category": "Marketing/Promo",
+      "reason": "Twilio Startup Program promo — duplicate to primary account"
+    },
+    {
+      "thread_id": "19e4ffa202d10d1d",
+      "date": "2026-05-22",
+      "sender": "noreply@mailer.atl-mail.atl-test.space",
+      "subject": "App Availability Success Rate back to normal for com.appbox.ai.backlog.prioritization",
+      "category": "Automated Notification",
+      "reason": "Atlassian app SLO restoration alert — resolved, no action needed"
+    },
+    {
+      "thread_id": "19e4ff7126433f8f",
+      "date": "2026-05-22",
+      "sender": "team@appbox.ai",
+      "subject": "[answer] Trello > Workspace Calendar View - Checklist Due Dates",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community search alert — informational"
+    },
+    {
+      "thread_id": "19e4feb7701bf0cf",
+      "date": "2026-05-22",
+      "sender": "noreply@mailer.atl-mail.atl-test.space",
+      "subject": "App Availability Success Rate alert condition met for com.appbox.ai.backlog.prioritization",
+      "category": "Automated Notification",
+      "reason": "Atlassian app SLO alert from test mailer — recovered, no action needed"
+    },
+    {
+      "thread_id": "19e4fee63dd52309",
+      "date": "2026-05-22",
+      "sender": "team@appbox.ai",
+      "subject": "[question] Trello > Checklist Due Dates?",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community search alert — informational"
+    },
+    {
+      "thread_id": "19e4f56647684353",
+      "date": "2026-05-22",
+      "sender": "team@appbox.ai",
+      "subject": "[answer] Jira > How to create stories automatically for a reoccuring story in different features",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community search alert — informational"
+    },
+    {
+      "thread_id": "19e4f34a6aa7724c",
+      "date": "2026-05-22",
+      "sender": "it@appbox.ai",
+      "subject": "[Notification] Route 53 Domains Pricing Changes [AWS Account: 720623770104]",
+      "category": "Automated Notification",
+      "reason": "AWS Route 53 pricing change advance notice — informational"
+    },
+    {
+      "thread_id": "19e4e33e7b5c157a",
+      "date": "2026-05-22",
+      "sender": "team@appbox.ai",
+      "subject": "[question] App Central > Migration",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community search alert — informational"
+    },
+    {
+      "thread_id": "19e4d71e5f07c0c8",
+      "date": "2026-05-22",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress sandbox automatic plugin update notice — no action needed"
+    },
+    {
+      "thread_id": "19e4ba03c26dbc6a",
+      "date": "2026-05-21",
+      "sender": "it@appbox.ai",
+      "subject": "Now available: Team '26 Solution Keynotes",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Team '26 promotional"
+    },
+    {
+      "thread_id": "19e4b4f3a00d3390",
+      "date": "2026-05-21",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Your site has updated to WordPress 7.0",
+      "category": "Automated Notification",
+      "reason": "WordPress core auto-update notice — no action needed"
+    },
+    {
+      "thread_id": "19e4b2c76c140135",
+      "date": "2026-05-21",
+      "sender": "team@appbox.ai",
+      "subject": "[article] App Central > NEW Jira Automation for Forms",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community search alert — informational"
+    },
+    {
+      "thread_id": "19e4ae6618f52066",
+      "date": "2026-05-21",
+      "sender": "team@appbox.ai",
+      "subject": "[answer] Jira > The check list connection shows 503 error",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community search alert — informational"
+    },
+    {
+      "thread_id": "19e4a538dfea0ba0",
+      "date": "2026-05-21",
+      "sender": "team@appbox.ai",
+      "subject": "[answer] Trello > How to delete checklists using automation rule or button?",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community search alert — informational"
+    },
+    {
+      "thread_id": "19e49b236b06e7ee",
+      "date": "2026-05-21",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Your site has updated to WordPress 7.0",
+      "category": "Automated Notification",
+      "reason": "WordPress core auto-update notice — no action needed"
+    },
+    {
+      "thread_id": "19e484b7c0aaed1d",
+      "date": "2026-05-21",
+      "sender": "it@appbox.ai",
+      "subject": "Codex Product Update: Codex comes to your phone and works in Chrome",
+      "category": "Newsletter/Event",
+      "reason": "OpenAI Codex product newsletter — informational"
+    },
+    {
+      "thread_id": "19e48463c39c759b",
+      "date": "2026-05-21",
+      "sender": "wordpress@support.appbox.ai",
+      "subject": "[AppBox Support] Your site has updated to WordPress 7.0",
+      "category": "Automated Notification",
+      "reason": "WordPress core auto-update notice — no action needed"
+    },
+    {
+      "thread_id": "19e480f2a2bd344b",
+      "date": "2026-05-21",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Some plugins and themes have automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress automatic plugin/theme update notice — no action needed"
+    },
+    {
+      "thread_id": "19e47dd831f9e710",
+      "date": "2026-05-21",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Some themes were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress sandbox automatic theme update notice — no action needed"
+    },
+    {
+      "thread_id": "19e3e8e4e5a36958",
+      "date": "2026-05-19",
+      "sender": "it@appbox.ai",
+      "subject": "Your receipt from Anthropic, PBC #2823-3371-7849",
+      "category": "Automated Notification",
+      "reason": "Anthropic payment receipt — keep in finance records, no inbox action"
+    },
+    {
+      "thread_id": "19e3cd1e16a6177d",
+      "date": "2026-05-18",
+      "sender": "it@appbox.ai",
+      "subject": "Zoom Docs is now Zoom Canvas",
+      "category": "Marketing/Promo",
+      "reason": "Zoom product rebrand announcement — informational"
+    },
+    {
+      "thread_id": "19e3bda3509319b6",
+      "date": "2026-05-18",
+      "sender": "info@admin.manus.im",
+      "subject": "Learn With Manus: May Webinar",
+      "category": "Marketing/Promo",
+      "reason": "Manus webinar promotional"
+    },
+    {
+      "thread_id": "19e3a7110c3803fb",
+      "date": "2026-05-18",
+      "sender": "team@appbox.ai",
+      "subject": "[question] Jira > Checklist Peformance issue",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community search alert — informational"
+    },
+    {
+      "thread_id": "19e39ab1753a9b7c",
+      "date": "2026-05-18",
+      "sender": "team@appbox.ai",
+      "subject": "[question] Trello > Fearture request: move or copy checklist to another card",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community search alert — informational"
+    },
+    {
+      "thread_id": "19e388d117df831a",
+      "date": "2026-05-18",
+      "sender": "it@appbox.ai",
+      "subject": "Run event-driven apps on AWS with Confluent Cloud",
+      "category": "Marketing/Promo",
+      "reason": "AWS Marketplace Confluent Cloud promotional"
     }
   ]
 }
