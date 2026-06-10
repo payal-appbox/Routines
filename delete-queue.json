@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T21:45:00Z",
+  "last_updated": "2026-06-10T14:30:00Z",
   "pending_delete": [
     {
       "thread_id": "19da28e161281e85",
@@ -136,6 +136,166 @@
       "subject": "Get your teams using Rovo today!",
       "category": "Onboarding/Newsletter",
       "reason": "Atlassian Rovo onboarding newsletter sent to test account"
+    },
+    {
+      "thread_id": "19eb1c8489a34120",
+      "date": "2026-06-10",
+      "sender": "workspace-noreply@google.com",
+      "subject": "Participate in a Workspace Agents user survey",
+      "category": "Survey/No-action",
+      "reason": "Google Workspace user research survey — no action required"
+    },
+    {
+      "thread_id": "19eaf21f95567c3f",
+      "date": "2026-06-10",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress auto-update notification — no action needed"
+    },
+    {
+      "thread_id": "19eaeeaa30e6a3c6",
+      "date": "2026-06-10",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress auto-update notification (sandbox) — no action needed"
+    },
+    {
+      "thread_id": "19eac3be1124fd20",
+      "date": "2026-06-09",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress auto-update notification (sandbox) — no action needed"
+    },
+    {
+      "thread_id": "19eaea47decfe38a",
+      "date": "2026-06-09",
+      "sender": "analytics-noreply@google.com",
+      "subject": "Your Google Analytics performance report is in for May 13th - June 9th",
+      "category": "Automated Notification",
+      "reason": "Google Analytics automated performance report — no action needed"
+    },
+    {
+      "thread_id": "19ea9f6eb681039d",
+      "date": "2026-06-09",
+      "sender": "analytics-noreply@google.com",
+      "subject": "Your Google Analytics performance report is in for May 12th - June 8th",
+      "category": "Automated Notification",
+      "reason": "Google Analytics automated performance report — no action needed"
+    },
+    {
+      "thread_id": "19ead771b4fc204d",
+      "date": "2026-06-09",
+      "sender": "info@e.atlassian.com",
+      "subject": "Choose from 30+ free Atlassian classes this summer",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian community classes newsletter — promotional"
+    },
+    {
+      "thread_id": "19ead6f3b2b45b86",
+      "date": "2026-06-09",
+      "sender": "it@appbox.ai",
+      "subject": "Choose from 30+ free Atlassian classes this summer",
+      "category": "Newsletter/Event",
+      "reason": "Duplicate Atlassian classes newsletter forwarded to it@ alias"
+    },
+    {
+      "thread_id": "19ead597b8086ac4",
+      "date": "2026-06-09",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Complimentary website security consultation",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — hosting provider security upsell"
+    },
+    {
+      "thread_id": "19ea8abc8c9199f7",
+      "date": "2026-06-08",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "WordPress Hosting 101 webinar: What every beginner should know",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Bluehost beginner webinar invite"
+    },
+    {
+      "thread_id": "19ea84a61a9df97e",
+      "date": "2026-06-08",
+      "sender": "info@e.atlassian.com",
+      "subject": "Welcome to the Inside Atlassian newsletter!",
+      "category": "Onboarding/Newsletter",
+      "reason": "Atlassian newsletter onboarding email (duplicate copies)"
+    },
+    {
+      "thread_id": "19ea7a0cec4fb4ee",
+      "date": "2026-06-08",
+      "sender": "it@appbox.ai",
+      "subject": "Plan your day at AWS Summit Washington, D.C.",
+      "category": "Newsletter/Event",
+      "reason": "AWS Summit event newsletter forwarded to it@ alias"
+    },
+    {
+      "thread_id": "19ea79a825d5e5e7",
+      "date": "2026-06-08",
+      "sender": "twilio@appbox.ai",
+      "subject": "[TOMORROW] Forrester breaks down the ROI of using Twilio",
+      "category": "Newsletter/Event",
+      "reason": "Twilio webinar promo forwarded to twilio@ alias"
+    },
+    {
+      "thread_id": "19e9d91b10357ccd",
+      "date": "2026-06-06",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "One startup. Zero launch delays with Bluehost. Here's how.",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Bluehost startup case study"
+    },
+    {
+      "thread_id": "19e990d1369237d6",
+      "date": "2026-06-05",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Your website, live before your coffee gets cold",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Bluehost AI website builder announcement"
+    },
+    {
+      "thread_id": "19e98cad06f320e0",
+      "date": "2026-06-05",
+      "sender": "it@appbox.ai",
+      "subject": "Important updates to your BigPicture cloud experience",
+      "category": "Onboarding/Newsletter",
+      "reason": "Appfire BigPicture product update newsletter forwarded to it@ alias"
+    },
+    {
+      "thread_id": "19e98cac7be22726",
+      "date": "2026-06-05",
+      "sender": "hello@go.appfire.com",
+      "subject": "Important updates to your BigPicture cloud experience",
+      "category": "Onboarding/Newsletter",
+      "reason": "Appfire BigPicture product update newsletter — multiple alias copies"
+    },
+    {
+      "thread_id": "19e8e09a1ef1933c",
+      "date": "2026-06-03",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Work smarter with Google Workspace, now 50% off!",
+      "category": "Marketing/Promo",
+      "reason": "Marketing promo — Bluehost Google Workspace discount"
+    },
+    {
+      "thread_id": "19e8dd563499aebc",
+      "date": "2026-06-03",
+      "sender": "it@appbox.ai",
+      "subject": "Updated License Agreement, EULA & Privacy Policy for Avisi Apps",
+      "category": "Newsletter/Event",
+      "reason": "Avisi Apps automated legal notice — informational only, no action required"
+    },
+    {
+      "thread_id": "19eaaf38cf96ab57",
+      "date": "2026-06-09",
+      "sender": "team@appbox.ai",
+      "subject": "Moderator's spam report for team@appbox.ai",
+      "category": "Automated Notification",
+      "reason": "Automated Google Groups spam moderation digest — no action needed"
     }
   ]
 }
