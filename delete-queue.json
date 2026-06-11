@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T21:45:00Z",
+  "last_updated": "2026-06-11T15:00:00Z",
   "pending_delete": [
     {
       "thread_id": "19da28e161281e85",
@@ -136,6 +136,358 @@
       "subject": "Get your teams using Rovo today!",
       "category": "Onboarding/Newsletter",
       "reason": "Atlassian Rovo onboarding newsletter sent to test account"
+    },
+    {
+      "thread_id": "19eb72fa0fe022fc",
+      "date": "2026-06-11",
+      "sender": "team@appbox.ai",
+      "subject": "[article] App Central > Turning Confluence into ISO 27001 evidence: how teams actually do it",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community digest article — no action required"
+    },
+    {
+      "thread_id": "19eb711333d43b5f",
+      "date": "2026-06-11",
+      "sender": "it@appbox.ai",
+      "subject": "Missed SIGNAL? See what's new with the Twilio Console and AI tools",
+      "category": "Marketing/Promo",
+      "reason": "Twilio Q2 release webinar promo to alias account"
+    },
+    {
+      "thread_id": "19eb70a31c0300ed",
+      "date": "2026-06-11",
+      "sender": "twilio@appbox.ai",
+      "subject": "Missed SIGNAL? See what's new with the Twilio Console and AI tools",
+      "category": "Marketing/Promo",
+      "reason": "Duplicate Twilio Q2 release webinar promo to alias account"
+    },
+    {
+      "thread_id": "19eb6f24add1b262",
+      "date": "2026-06-11",
+      "sender": "team@appbox.ai",
+      "subject": "[discussion] App Central > Keeping Client Integrations Alive During a System Migration (An MSP Perspective)",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community digest discussion — no action required"
+    },
+    {
+      "thread_id": "19eb6cdc7e4867d8",
+      "date": "2026-06-11",
+      "sender": "teamtwilio@team.twilio.com",
+      "subject": "Twilio’s AI Startup Searchlight 2026 Program is NOW Live",
+      "category": "Marketing/Promo",
+      "reason": "Twilio AI Startup Searchlight program promo"
+    },
+    {
+      "thread_id": "19eb643714752c6c",
+      "date": "2026-06-11",
+      "sender": "team@appbox.ai",
+      "subject": "[question] Jira > How can I export attachment file names in Jira Cloud?",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community digest question — no action required"
+    },
+    {
+      "thread_id": "19eb61b942c28e5a",
+      "date": "2026-06-11",
+      "sender": "team@appbox.ai",
+      "subject": "[answer] Jira Service Management > how to assign the form get editable after ticket raise without going manually edit option",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community digest answer — no action required"
+    },
+    {
+      "thread_id": "19eb433674a95479",
+      "date": "2026-06-11",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress auto-update notification — no action required"
+    },
+    {
+      "thread_id": "19eb428173c684c3",
+      "date": "2026-06-11",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress sandbox auto-update notification — no action required"
+    },
+    {
+      "thread_id": "19eb3a0811f061a9",
+      "date": "2026-06-10",
+      "sender": "it@appbox.ai",
+      "subject": "We're updating our Privacy Policy",
+      "category": "Newsletter/Event",
+      "reason": "Vendor privacy policy update notification to alias account"
+    },
+    {
+      "thread_id": "19eb322d5a21cc44",
+      "date": "2026-06-10",
+      "sender": "team@appbox.ai",
+      "subject": "[question] Trello > Reset checklist",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community digest question + answer — no action required"
+    },
+    {
+      "thread_id": "19eb2fb3780776b8",
+      "date": "2026-06-10",
+      "sender": "workspace-noreply@google.com",
+      "subject": "Give your business a professional edge with Google Voice",
+      "category": "Marketing/Promo",
+      "reason": "Google Voice upsell marketing email"
+    },
+    {
+      "thread_id": "19eb28a2e499a669",
+      "date": "2026-06-10",
+      "sender": "info@e.atlassian.com",
+      "subject": "AI-Powered customer support is now included!",
+      "category": "Onboarding/Newsletter",
+      "reason": "Atlassian Service Collection upsell to test admin account"
+    },
+    {
+      "thread_id": "19eb287dd938b45a",
+      "date": "2026-06-10",
+      "sender": "it@appbox.ai",
+      "subject": "AI-Powered customer support is now included!",
+      "category": "Onboarding/Newsletter",
+      "reason": "Duplicate Atlassian Service Collection upsell to alias account"
+    },
+    {
+      "thread_id": "19eb27c9df4faf89",
+      "date": "2026-06-10",
+      "sender": "jira-vendor@appbox.ai",
+      "subject": "Partner Accelerate '26 Wrapped: your next moves",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Partner Accelerate recap newsletter to alias account"
+    },
+    {
+      "thread_id": "19eb27c14ef41e17",
+      "date": "2026-06-10",
+      "sender": "info@e.atlassian.com",
+      "subject": "Partner Accelerate '26 Wrapped: your next moves",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Partner Accelerate recap newsletter"
+    },
+    {
+      "thread_id": "19eb276ca7ec19f8",
+      "date": "2026-06-10",
+      "sender": "team@appbox.ai",
+      "subject": "[article] Customer Success > Reporting on Subtasks in Jira",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community digest article — no action required"
+    },
+    {
+      "thread_id": "19eb1f0706b26d24",
+      "date": "2026-06-10",
+      "sender": "team@appbox.ai",
+      "subject": "[comment] Trello > Checklists—Now appearing on the front of your cards",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community digest comment — no action required"
+    },
+    {
+      "thread_id": "19eb1c8489a34120",
+      "date": "2026-06-10",
+      "sender": "workspace-noreply@google.com",
+      "subject": "Participate in a Workspace Agents user survey",
+      "category": "Survey/No-action",
+      "reason": "Google Workspace user research survey — no action required"
+    },
+    {
+      "thread_id": "19eb12e5b58f56ea",
+      "date": "2026-06-10",
+      "sender": "team@appbox.ai",
+      "subject": "[answer] Confluence > How are you using Confluence for HR processes or for leaders?",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community digest answer — no action required"
+    },
+    {
+      "thread_id": "19eb094d65b1834f",
+      "date": "2026-06-10",
+      "sender": "team@appbox.ai",
+      "subject": "[answer] Trello > Custom Fields keeps getting replaced",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community digest answer — no action required"
+    },
+    {
+      "thread_id": "19eaf21f95567c3f",
+      "date": "2026-06-10",
+      "sender": "wordpress@appbox.ai",
+      "subject": "[Appbox.ai] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress auto-update notification — no action required"
+    },
+    {
+      "thread_id": "19eaeeaa30e6a3c6",
+      "date": "2026-06-10",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress sandbox auto-update notification — no action required"
+    },
+    {
+      "thread_id": "19eaea47decfe38a",
+      "date": "2026-06-09",
+      "sender": "analytics-noreply@google.com",
+      "subject": "Your Google Analytics performance report is in for May 13th - June 9th",
+      "category": "Automated Notification",
+      "reason": "Google Analytics automated performance report — no action required"
+    },
+    {
+      "thread_id": "19ead771b4fc204d",
+      "date": "2026-06-09",
+      "sender": "info@e.atlassian.com",
+      "subject": "Choose from 30+ free Atlassian classes this summer",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community newsletter — class catalog promo"
+    },
+    {
+      "thread_id": "19ead6f3b2b45b86",
+      "date": "2026-06-09",
+      "sender": "it@appbox.ai",
+      "subject": "Choose from 30+ free Atlassian classes this summer",
+      "category": "Newsletter/Event",
+      "reason": "Duplicate Atlassian Community newsletter to alias account"
+    },
+    {
+      "thread_id": "19ead597b8086ac4",
+      "date": "2026-06-09",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "Complimentary website security consultation",
+      "category": "Marketing/Promo",
+      "reason": "Bluehost security consultation upsell"
+    },
+    {
+      "thread_id": "19eac3be1124fd20",
+      "date": "2026-06-09",
+      "sender": "wordpress@sandbox.appbox.ai",
+      "subject": "[Sandbox] Some plugins were automatically updated",
+      "category": "Automated Notification",
+      "reason": "WordPress sandbox auto-update notification — no action required"
+    },
+    {
+      "thread_id": "19eabd7068a188f2",
+      "date": "2026-06-09",
+      "sender": "team@appbox.ai",
+      "subject": "[article] Jira Cloud Admins > One Small Jira Habit That Changed the Way I Work",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community digest article — no action required"
+    },
+    {
+      "thread_id": "19eaaf38cf96ab57",
+      "date": "2026-06-09",
+      "sender": "team@appbox.ai",
+      "subject": "Moderator's spam report for team@appbox.ai",
+      "category": "Automated Notification",
+      "reason": "Google Groups moderator spam report — auto-filtered, no action required"
+    },
+    {
+      "thread_id": "19ea9f6eb681039d",
+      "date": "2026-06-09",
+      "sender": "analytics-noreply@google.com",
+      "subject": "Your Google Analytics performance report is in for May 12th - June 8th",
+      "category": "Automated Notification",
+      "reason": "Google Analytics automated performance report — no action required"
+    },
+    {
+      "thread_id": "19ea995b2a3f4a70",
+      "date": "2026-06-08",
+      "sender": "escalations@appbox.ai",
+      "subject": "App Availability Success Rate back to normal for Backlog Prioritization for Jira (Pro)",
+      "category": "Automated Notification",
+      "reason": "Atlassian SLI auto-recovery alert — paired with the prior alert, no action needed"
+    },
+    {
+      "thread_id": "19ea9871b99cf203",
+      "date": "2026-06-08",
+      "sender": "escalations@appbox.ai",
+      "subject": "App Availability Success Rate alert condition met for Backlog Prioritization for Jira (Pro)",
+      "category": "Automated Notification",
+      "reason": "Atlassian SLI auto-alert — resolved by paired recovery notice, no action needed"
+    },
+    {
+      "thread_id": "19ea947277863803",
+      "date": "2026-06-08",
+      "sender": "team@appbox.ai",
+      "subject": "[question] Trello > Pasting duplicate text",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community digest question + answer — no action required"
+    },
+    {
+      "thread_id": "19ea8abc8c9199f7",
+      "date": "2026-06-08",
+      "sender": "no-reply@e.bluehost.com",
+      "subject": "WordPress Hosting 101 webinar: What every beginner should know",
+      "category": "Marketing/Promo",
+      "reason": "Bluehost WordPress hosting webinar promo"
+    },
+    {
+      "thread_id": "19ea84a61a9df97e",
+      "date": "2026-06-08",
+      "sender": "info@e.atlassian.com",
+      "subject": "Welcome to the Inside Atlassian newsletter!",
+      "category": "Newsletter/Event",
+      "reason": "Inside Atlassian newsletter welcome — duplicate sends, no action required"
+    },
+    {
+      "thread_id": "19ea7a0cec4fb4ee",
+      "date": "2026-06-08",
+      "sender": "it@appbox.ai",
+      "subject": "Plan your day at AWS Summit Washington, D.C.",
+      "category": "Marketing/Promo",
+      "reason": "AWS Summit event marketing to alias account"
+    },
+    {
+      "thread_id": "19ea79a825d5e5e7",
+      "date": "2026-06-08",
+      "sender": "twilio@appbox.ai",
+      "subject": "[TOMORROW] Forrester breaks down the ROI of using Twilio",
+      "category": "Marketing/Promo",
+      "reason": "Twilio Forrester ROI webinar promo to alias account"
+    },
+    {
+      "thread_id": "19ea7008118620f2",
+      "date": "2026-06-08",
+      "sender": "team@appbox.ai",
+      "subject": "[answer] Jira > How can i set a condition that a user cannot close a Task until the sub-tasks are closed?",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community digest answer — no action required"
+    },
+    {
+      "thread_id": "19ea6ea4285582a8",
+      "date": "2026-06-08",
+      "sender": "team@appbox.ai",
+      "subject": "[post] Atlassian Community > decommissioning_checklist_Smart Checklist example.png",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community digest post — no action required"
+    },
+    {
+      "thread_id": "19ea691a747d5374",
+      "date": "2026-06-08",
+      "sender": "jobs@appbox.ai",
+      "subject": "Mayukh V. sent you a message",
+      "category": "Automated Notification",
+      "reason": "LinkedIn-style inbound message notification to jobs alias — handled separately"
+    },
+    {
+      "thread_id": "19ea66994415d813",
+      "date": "2026-06-08",
+      "sender": "team@appbox.ai",
+      "subject": "[answer] Jira Service Management > How to create the checklist in jira for agent view",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community digest answer thread — no action required"
+    },
+    {
+      "thread_id": "19ea1b9eb3e157ec",
+      "date": "2026-06-07",
+      "sender": "team@appbox.ai",
+      "subject": "[answer] Trello > Parent and child cards automation",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community digest answer — no action required"
+    },
+    {
+      "thread_id": "19ea1b59b884a04d",
+      "date": "2026-06-07",
+      "sender": "team@appbox.ai",
+      "subject": "[answer] Trello > Deleted card",
+      "category": "Newsletter/Event",
+      "reason": "Atlassian Community digest answer — no action required"
     }
   ]
 }
