@@ -41,21 +41,42 @@ Everything that doesn't fit Category A or B.
 
 **Action:** Leave it in the inbox untouched. Add it to the summary as "flagged but not actioned."
 
-## Step 3b: Append to Delete Queue
+## Step 3b: Queue & Label as Junk
 
-For each email classified as Category B (junk), append an entry to `delete-queue.json` in the
-repository root. Read the existing file first, then add new entries to the `pending_delete` array.
+For each email classified as Category B (junk), do TWO things:
 
-Each entry must include:
-- `thread_id` — the Gmail thread ID
-- `date` — the email date (YYYY-MM-DD)
-- `sender` — sender email address
-- `subject` — email subject line
-- `category` — one of: "Marketing/Promo", "Newsletter/Event", "Onboarding/Newsletter", "Automated Notification", "Survey/No-action"
-- `reason` — brief explanation of why it's junk (e.g., "Hosting provider upsell", "Duplicate event email to test account")
+### 3b.1 — Apply the `claude-delete` Gmail label
 
-Update the `last_updated` timestamp at the top of the file. Do NOT remove existing entries —
-the file accumulates across runs until the owner batch-deletes them locally.
+The label `claude-delete` exists in the account (id `Label_5400706671634396889`). Use the
+Gmail MCP `label_thread` with this label ID on the thread. This is the primary trash
+mechanism — once labeled, the owner does a one-click bulk-trash in Gmail (open the
+`claude-delete` label → select all → trash).
+
+If `list_labels` is called to discover IDs, use the label whose displayName is
+`claude-delete`. If the label is missing, create it via `create_label` with displayName
+`claude-delete` and use the returned ID.
+
+If `label_thread` returns "Requested entity was not found", the thread is already gone —
+skip it; do NOT append to the queue.
+
+### 3b.2 — Append to `delete-queue.json` (with dedup)
+
+Then append an entry to `delete-queue.json` in the repo root. Read the existing file first:
+
+1. Build a `Set` of all existing `thread_id` values in `pending_delete`.
+2. For each new junk thread, **skip if its thread_id is already in the set** — no
+   duplicates across runs.
+3. For each new (non-duplicate) thread, append:
+   - `thread_id` — Gmail thread ID
+   - `date` — email date (YYYY-MM-DD)
+   - `sender` — sender email
+   - `subject` — email subject
+   - `category` — one of: "Marketing/Promo", "Newsletter/Event", "Onboarding/Newsletter", "Automated Notification", "Survey/No-action"
+   - `reason` — brief explanation
+   - `labeled_claude_delete: true` — confirms the Gmail label was applied
+
+Update `last_updated` at the top of the file. Do NOT remove existing entries — the file
+is an audit log; the `claude-delete` label is the operational state.
 
 After appending, commit and push the updated file to the repository.
 
@@ -63,22 +84,34 @@ After appending, commit and push the updated file to the repository.
 
 For each Jira notification email (Category A):
 
-1. **Extract the ticket ID** from the subject line or email body (e.g., `SD-1234`)
+1. **Extract the ticket ID** from the subject line or email body (e.g., `SDCHK-1234`,
+   `SDAQ-567`). The project key prefix identifies the product — see the product mapping
+   in the `/ticket-response` skill.
 
-2. **Check if a response is needed** — if the ticket is already in "Waiting for customer" status
-   and the last comment is from your team (Payal or Nisha), no draft is needed. Only draft a
-   response when the customer has replied and is waiting for support.
+2. **Check if a response is actually needed** — fetch the ticket status and last comment:
+   - If status is "Waiting for customer" AND the last comment is from your team (Payal or
+     Nisha), no draft is needed. Skip to the next email.
+   - Only draft when the customer has replied and the ticket is waiting on support.
 
-3. **Fetch ticket context** using the Atlassian MCP connector:
-   - Get the full issue: description, status, priority, reporter, assignee
-   - Get the latest comments (up to 10)
-   - Note the reporter's name — this is the customer you're drafting a response to
+3. **Invoke the `/ticket-response` skill** with the ticket ID. The skill will:
+   - Fetch full ticket context (issue, comments, reporter, status)
+   - Identify the product and check routing
+   - Search BOTH the SD and Dev projects for **role-model tickets** (label `role-model`)
+   - Search for **similar resolved tickets** and extract resolution patterns
+   - Pull relevant docs (Confluence + docs.appbox.ai)
+   - Apply product-specific knowledge (Checklist item-count limits, "not copied over"
+     framing for migrations, Calendly link pattern, etc.)
+   - Return the drafted reply body
 
-3. **Draft a customer response** using the `/ticket-response` skill logic:
-   - Use the ticket-response skill guidelines to compose the reply
-   - The response must be a Gmail draft reply on the SAME thread (use the thread ID)
+   When called from this skill, ticket-response returns ONLY the reply body — no research
+   summary wrapper.
 
-4. **Save the draft** using Gmail MCP — create a draft reply, do NOT send it.
+4. **Save as Gmail draft** using the Gmail MCP — create a draft REPLY on the same thread
+   ID as the incoming email. Do NOT send. Do NOT post anything to Jira (read-only — see
+   CLAUDE.md).
+
+5. **If ticket-response flags a misroute** at the end of its output, include that flag
+   verbatim in the Slack summary (Step 4) so the human knows to consider moving the ticket.
 
 ## Step 4: Send Slack Summary
 
@@ -91,7 +124,7 @@ Emails processed: [total count]
 Added to delete queue: [count]
 Jira drafts ready: [count]
   - [TICKET-ID]: [one-line subject summary]
-  - [TICKET-ID]: [one-line subject summary]
+  - [TICKET-ID]: [one-line subject summary] ⚠️ possible misroute → suggested [PROJECT]
 Important but not actioned: [count]
   - From: [sender] — Subject: [subject]
 

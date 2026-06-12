@@ -14,7 +14,7 @@ Claude Code agents that execute tasks using MCP connectors — no local CLI tool
 
 Routines operate through MCP connectors and the repository filesystem:
 
-- **Gmail** — read emails, create drafts (labeling requires write scopes not yet available)
+- **Gmail** — read emails, create drafts, apply labels (e.g. `claude-delete` for batch trash)
 - **Atlassian** — read Jira tickets and Confluence pages
 - **Slack** — send messages, read channels
 - **Repository** — persist state across runs (e.g., `delete-queue.json`)
@@ -30,7 +30,7 @@ These rules apply to ALL routines in this repo. Violating them could cause real 
 ### Email (Gmail)
 
 - **NEVER send emails.** Only create drafts. The human reviews and sends.
-- **NEVER delete emails.** Add junk to `delete-queue.json` for owner to batch-delete locally.
+- **NEVER delete emails.** Junk is labeled `claude-delete` in Gmail AND logged to `delete-queue.json`; the owner does the final one-click bulk-trash from the label view.
 - **NEVER modify email content** in existing threads beyond drafting replies.
 
 ### Jira (Atlassian)
