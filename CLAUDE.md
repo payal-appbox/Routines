@@ -12,16 +12,16 @@ Claude Code agents that execute tasks using MCP connectors — no local CLI tool
 
 ## Architecture
 
-Routines operate through MCP connectors and the repository filesystem:
+Routines operate through MCP connectors:
 
-- **Gmail** — read emails, create drafts, apply labels (e.g. `claude-delete` for batch trash)
+- **Gmail** — read emails, create drafts, apply labels (`claude-delete` is the junk label; the owner bulk-trashes from Gmail's label view)
 - **Atlassian** — read Jira tickets and Confluence pages
 - **Slack** — send messages, read channels
-- **Repository** — persist state across runs (e.g., `delete-queue.json`)
+
+State that persists across runs lives in Gmail (labels, drafts) — not in this repo.
 
 The routine execution environment supports setup scripts, package installation (cached),
-and environment variables. Network access requires allowlisting. Tools like `gws` can be
-installed via the setup script if needed in future.
+and environment variables. Network access requires allowlisting.
 
 ## Safety Rules — MUST FOLLOW
 
@@ -30,7 +30,7 @@ These rules apply to ALL routines in this repo. Violating them could cause real 
 ### Email (Gmail)
 
 - **NEVER send emails.** Only create drafts. The human reviews and sends.
-- **NEVER delete emails.** Junk is labeled `claude-delete` in Gmail AND logged to `delete-queue.json`; the owner does the final one-click bulk-trash from the label view.
+- **NEVER delete emails.** Junk is labeled `claude-delete` in Gmail; the owner does the final one-click bulk-trash from the label view.
 - **NEVER modify email content** in existing threads beyond drafting replies.
 
 ### Jira (Atlassian)
@@ -54,7 +54,7 @@ These rules apply to ALL routines in this repo. Violating them could cause real 
 
 | Routine | Skill | Schedule | Description |
 |---------|-------|----------|-------------|
-| Inbox Processor | `/inbox-processor` | 10 AM & 8 PM IST daily | Classifies inbox, drafts Jira responses, queues junk for deletion |
+| Inbox Processor | `/inbox-processor` | 10 AM & 8 PM IST daily | Classifies inbox, drafts Jira responses, labels junk `claude-delete` |
 
 ## Conventions
 

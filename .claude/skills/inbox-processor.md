@@ -34,51 +34,32 @@ An email is junk if ANY of these are true:
 - Subject contains words like: "unsubscribe", "newsletter", "promotional", "sale", "offer", "deal"
 - The email is an automated notification that requires no action (build notifications, automated reports, etc.)
 
-**Action:** Add this email to the delete queue (see Step 3b). Do NOT delete it.
+**Action:** Apply the `claude-delete` Gmail label (see Step 3b). Do NOT delete it.
 
 ### Category C — Important / Other
 Everything that doesn't fit Category A or B.
 
 **Action:** Leave it in the inbox untouched. Add it to the summary as "flagged but not actioned."
 
-## Step 3b: Queue & Label as Junk
+## Step 3b: Label as Junk
 
-For each email classified as Category B (junk), do TWO things:
+For each email classified as Category B (junk), apply the `claude-delete` Gmail label.
+The label is the **single source of truth** — once labeled, the owner does a one-click
+bulk-trash in Gmail (open the `claude-delete` label → select all → trash). No JSON queue
+or repo commit is needed — Gmail's label view IS the audit log.
 
-### 3b.1 — Apply the `claude-delete` Gmail label
+Use Gmail MCP `label_thread` with this label ID:
+- `Label_5400706671634396889` (displayName: `claude-delete`)
 
-The label `claude-delete` exists in the account (id `Label_5400706671634396889`). Use the
-Gmail MCP `label_thread` with this label ID on the thread. This is the primary trash
-mechanism — once labeled, the owner does a one-click bulk-trash in Gmail (open the
-`claude-delete` label → select all → trash).
+If you need to discover the ID, call `list_labels` and find the one whose displayName is
+`claude-delete`. If the label is missing entirely, create it via `create_label` with
+displayName `claude-delete`.
 
-If `list_labels` is called to discover IDs, use the label whose displayName is
-`claude-delete`. If the label is missing, create it via `create_label` with displayName
-`claude-delete` and use the returned ID.
+`label_thread` is idempotent — re-labeling a thread is a safe no-op, so no dedup logic
+is required. If it returns "Requested entity was not found", the thread is already gone;
+skip silently.
 
-If `label_thread` returns "Requested entity was not found", the thread is already gone —
-skip it; do NOT append to the queue.
-
-### 3b.2 — Append to `delete-queue.json` (with dedup)
-
-Then append an entry to `delete-queue.json` in the repo root. Read the existing file first:
-
-1. Build a `Set` of all existing `thread_id` values in `pending_delete`.
-2. For each new junk thread, **skip if its thread_id is already in the set** — no
-   duplicates across runs.
-3. For each new (non-duplicate) thread, append:
-   - `thread_id` — Gmail thread ID
-   - `date` — email date (YYYY-MM-DD)
-   - `sender` — sender email
-   - `subject` — email subject
-   - `category` — one of: "Marketing/Promo", "Newsletter/Event", "Onboarding/Newsletter", "Automated Notification", "Survey/No-action"
-   - `reason` — brief explanation
-   - `labeled_claude_delete: true` — confirms the Gmail label was applied
-
-Update `last_updated` at the top of the file. Do NOT remove existing entries — the file
-is an audit log; the `claude-delete` label is the operational state.
-
-After appending, commit and push the updated file to the repository.
+Track count of newly-labeled threads in this run for the Slack summary (Step 4).
 
 ## Step 3c: Process Jira Notification Emails
 
@@ -121,15 +102,16 @@ After processing ALL emails, send a Slack DM to Payal with this format:
 Inbox Processing Complete
 
 Emails processed: [total count]
-Added to delete queue: [count]
+Labeled claude-delete: [count]
 Jira drafts ready: [count]
   - [TICKET-ID]: [one-line subject summary]
   - [TICKET-ID]: [one-line subject summary] ⚠️ possible misroute → suggested [PROJECT]
 Important but not actioned: [count]
   - From: [sender] — Subject: [subject]
-
-Delete queue: [total pending count] threads awaiting batch delete
 ```
+
+After processing, the owner can open Gmail's `claude-delete` label view and bulk-trash
+whenever they want — no queue to manage.
 
 If there were zero emails to process, still send a summary confirming that.
 
